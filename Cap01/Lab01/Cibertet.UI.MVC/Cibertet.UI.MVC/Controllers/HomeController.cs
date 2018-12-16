@@ -26,5 +26,12 @@ namespace Cibertet.UI.MVC.Controllers
 
             return View();
         }
+        
+        public ActionResult Productos()
+        {
+            ViewBag.Message = "Lista de Productos";
+            return View();
+            
+        }
     }
 }
