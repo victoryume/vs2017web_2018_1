@@ -175,7 +175,10 @@
     <Content Include="Content\Html\Tablas.html" />
     <Content Include="Content\images\logo.jpg" />
     <Content Include="Content\images\navidad.jpg" />
+    <Content Include="Content\js\video.js" />
     <Content Include="Content\js\index.js" />
+    <Content Include="Content\media\html5.mp4" />
+    <Content Include="Content\media\musica.mp3" />
     <Content Include="Content\styles.css" />
     <Content Include="Content\styles.min.css">
       <DependentUpon>styles.css</DependentUpon>
@@ -184,6 +187,7 @@
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
     <Content Include="Global.asax" />
     <Content Include="Content\Site.css" />
+    <Content Include="productos.html" />
     <Content Include="index.html" />
     <Content Include="Registro4.html" />
     <Content Include="Registro3.html" />
