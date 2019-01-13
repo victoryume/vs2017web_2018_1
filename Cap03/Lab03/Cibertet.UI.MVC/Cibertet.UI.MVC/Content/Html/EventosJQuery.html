@@ -1,0 +1,45 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+    <script src="../../Scripts/jquery-3.3.1.min.js"></script>
+    <script type="text/javascript">
+
+        $(document).ready(config);
+
+        function config() {
+
+           // debugger;
+
+            $('p:first').on('click', function () {
+                alert('Clic en el primer párrafo');
+            });
+
+            $('#parrafoDos').on('dblclick', function () {
+                alert('Clic en el segundo párrafo');
+            });
+        }
+
+        
+        
+    </script>
+</head>
+<body>
+    <div>
+        <h2>EVENTOS HTML CON JQUERY</h2>
+    </div>
+    <p>
+        [hacer clic aquí]
+    </p>
+    <p id="parrafoDos">
+        [hacer doble clic aquí]
+    </p>
+    <div>
+        <button id="btnRemoverHandler">Remover Evento</button>
+        <button id="btnAddHandler">Agregar Evento</button>
+    </div>
+</body>
+</html>
+
+
