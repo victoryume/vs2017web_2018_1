@@ -1,0 +1,14 @@
+E:\V- C# Web\Versionado\vs2017web_2018_1\Cap04\Lab02\slnVentas\App.Data.DataBase\obj\Debug\App.Data.DataBase.csprojAssemblyReference.cache
+E:\V- C# Web\Versionado\vs2017web_2018_1\Cap04\Lab02\slnVentas\App.Data.DataBase\obj\Debug\App.Data.DataBase.csproj.CoreCompileInputs.cache
+E:\V- C# Web\Versionado\vs2017web_2018_1\Cap04\Lab02\slnVentas\App.Data.DataBase\bin\Debug\App.Data.DataBase.dll.config
+E:\V- C# Web\Versionado\vs2017web_2018_1\Cap04\Lab02\slnVentas\App.Data.DataBase\bin\Debug\App.Data.DataBase.dll
+E:\V- C# Web\Versionado\vs2017web_2018_1\Cap04\Lab02\slnVentas\App.Data.DataBase\bin\Debug\App.Data.DataBase.pdb
+E:\V- C# Web\Versionado\vs2017web_2018_1\Cap04\Lab02\slnVentas\App.Data.DataBase\bin\Debug\App.Entities.Base.dll
+E:\V- C# Web\Versionado\vs2017web_2018_1\Cap04\Lab02\slnVentas\App.Data.DataBase\bin\Debug\EntityFramework.dll
+E:\V- C# Web\Versionado\vs2017web_2018_1\Cap04\Lab02\slnVentas\App.Data.DataBase\bin\Debug\EntityFramework.SqlServer.dll
+E:\V- C# Web\Versionado\vs2017web_2018_1\Cap04\Lab02\slnVentas\App.Data.DataBase\bin\Debug\App.Entities.Base.pdb
+E:\V- C# Web\Versionado\vs2017web_2018_1\Cap04\Lab02\slnVentas\App.Data.DataBase\bin\Debug\EntityFramework.xml
+E:\V- C# Web\Versionado\vs2017web_2018_1\Cap04\Lab02\slnVentas\App.Data.DataBase\bin\Debug\EntityFramework.SqlServer.xml
+E:\V- C# Web\Versionado\vs2017web_2018_1\Cap04\Lab02\slnVentas\App.Data.DataBase\obj\Debug\App.Data.DataBase.csproj.CopyComplete
+E:\V- C# Web\Versionado\vs2017web_2018_1\Cap04\Lab02\slnVentas\App.Data.DataBase\obj\Debug\App.Data.DataBase.dll
+E:\V- C# Web\Versionado\vs2017web_2018_1\Cap04\Lab02\slnVentas\App.Data.DataBase\obj\Debug\App.Data.DataBase.pdb

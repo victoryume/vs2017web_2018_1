@@ -1,0 +1,9 @@
+E:\V- C# Web\Versionado\vs2017web_2018_1\Cap04\Lab02\slnVentas\App.Data.Repository.Interfaces\bin\Debug\App.Data.Repository.Interfaces.dll
+E:\V- C# Web\Versionado\vs2017web_2018_1\Cap04\Lab02\slnVentas\App.Data.Repository.Interfaces\bin\Debug\App.Data.Repository.Interfaces.pdb
+E:\V- C# Web\Versionado\vs2017web_2018_1\Cap04\Lab02\slnVentas\App.Data.Repository.Interfaces\bin\Debug\App.Entities.Base.dll
+E:\V- C# Web\Versionado\vs2017web_2018_1\Cap04\Lab02\slnVentas\App.Data.Repository.Interfaces\bin\Debug\App.Entities.Base.pdb
+E:\V- C# Web\Versionado\vs2017web_2018_1\Cap04\Lab02\slnVentas\App.Data.Repository.Interfaces\obj\Debug\App.Data.Repository.Interfaces.csprojAssemblyReference.cache
+E:\V- C# Web\Versionado\vs2017web_2018_1\Cap04\Lab02\slnVentas\App.Data.Repository.Interfaces\obj\Debug\App.Data.Repository.Interfaces.csproj.CoreCompileInputs.cache
+E:\V- C# Web\Versionado\vs2017web_2018_1\Cap04\Lab02\slnVentas\App.Data.Repository.Interfaces\obj\Debug\App.Data.Repository.Interfaces.csproj.CopyComplete
+E:\V- C# Web\Versionado\vs2017web_2018_1\Cap04\Lab02\slnVentas\App.Data.Repository.Interfaces\obj\Debug\App.Data.Repository.Interfaces.dll
+E:\V- C# Web\Versionado\vs2017web_2018_1\Cap04\Lab02\slnVentas\App.Data.Repository.Interfaces\obj\Debug\App.Data.Repository.Interfaces.pdb

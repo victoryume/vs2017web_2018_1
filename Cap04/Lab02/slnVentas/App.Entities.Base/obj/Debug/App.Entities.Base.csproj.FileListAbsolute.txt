@@ -1,0 +1,6 @@
+E:\V- C# Web\Versionado\vs2017web_2018_1\Cap04\Lab02\slnVentas\App.Entities.Base\bin\Debug\App.Entities.Base.dll
+E:\V- C# Web\Versionado\vs2017web_2018_1\Cap04\Lab02\slnVentas\App.Entities.Base\bin\Debug\App.Entities.Base.pdb
+E:\V- C# Web\Versionado\vs2017web_2018_1\Cap04\Lab02\slnVentas\App.Entities.Base\obj\Debug\App.Entities.Base.csprojAssemblyReference.cache
+E:\V- C# Web\Versionado\vs2017web_2018_1\Cap04\Lab02\slnVentas\App.Entities.Base\obj\Debug\App.Entities.Base.csproj.CoreCompileInputs.cache
+E:\V- C# Web\Versionado\vs2017web_2018_1\Cap04\Lab02\slnVentas\App.Entities.Base\obj\Debug\App.Entities.Base.dll
+E:\V- C# Web\Versionado\vs2017web_2018_1\Cap04\Lab02\slnVentas\App.Entities.Base\obj\Debug\App.Entities.Base.pdb
