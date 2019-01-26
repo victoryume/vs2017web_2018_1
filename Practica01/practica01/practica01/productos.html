@@ -1,0 +1,105 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8" />
+	<title>Víctor Yupanqui Mendoza</title>
+	<link href="Content/css/Site.css" rel="stylesheet" />
+	<script src="Scripts/jquery-3.3.1.min.js"></script>
+	<script src="Content/js/helpers.js"></script>
+</head>
+<body>
+	<header>
+		<img src="Content/images/logo.jpg" class="headerlogo" />
+
+		<div>SISTEMA DE VENTAS</div>
+	</header>
+	<section>
+		<ul>
+			<li><a href="#">Categorias</a></li>
+			<li><a href="#">Marcas</a></li>
+			<li><a href="productos.html">Productos</a></li>
+			<li><a href="#">Ventas</a></li>
+			<li><a href="#">Compras</a></li>
+			<li><a href="#">Almacén</a></li>
+			<li><a href="#">Reporte de Ventas</a></li>
+			<li><a href="#">Reporte de Compras</a></li>
+			<li><a href="#">Stock Mínimo</a></li>
+		</ul>
+	</section>
+	<form id="panel_contenido">
+
+		<table>
+			<tr>
+				<td><label for="txtNombre">Nombres</label></td>
+				<td><input type="text" id="txtNombre" /></td>
+			</tr>
+			<tr>
+				<td><label for="txtApellidos">Categoría</label></td>
+				<td>
+					<select id="cbo_categoria">
+						<option value="Impresoras">Impresoras</option>
+						<option value="Monitores">Monitores</option>
+						<option value="Mouse">Mouse</option>
+					</select>
+				</td>
+			</tr>
+			<tr>
+				<td><label for="txtDNI">Marca</label></td>
+				<td>
+					<select id="cbo_marca">
+						<option value="Impresoras">Dell</option>
+						<option value="Monitores">HP</option>
+						<option value="Mouse">Sony</option>
+						<option value="Mouse">AOC</option>
+					</select>
+				</td>
+			</tr>
+			<tr>
+				<td><label for="txtContrasena">Precio</label></td>
+				<td><input type="text" id="txtPrecio" /></td>
+			</tr>
+			<tr>
+				<td><label for="txtContrasena">Stock:</label></td>
+				<td><input type="text" id="txtStock" /></td>
+			</tr>
+		</table>
+
+		<p>
+			<button type="button" id="btn_guardar">Grabar Datos</button>
+		</p>
+		<p>
+			
+		<a href="listaProductos.html">Lista Productos</a>
+		</p>
+	</form>
+	<footer>
+		Empresa de comercialización de productos al por menor
+	</footer>
+	<script type="text/javascript">
+	
+		$('#txtPrecio, #txtStock').on('keypress', function () {
+
+			return cibertec.helpers.soloNumeros(event);
+
+		});
+
+		$('#btn_guardar').on('click', function () {
+
+			var productos = {};
+
+			productos.nombre = $('#txtNombre').val();
+			productos.categoria = $('#cbo_categoria').val();
+			productos.marca = $('#cbo_marca').val();
+			productos.precio = $('#txtPrecio').val();
+			productos.stock = $('#txtStock').val();
+
+			cibertec.helpers.SetObjetctLocalStorage(productos, 'registroProducto');
+
+			alert('Producto registrado correctamente');
+
+		});
+
+
+	</script>
+</body>
+</html>

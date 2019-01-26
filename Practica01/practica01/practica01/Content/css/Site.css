@@ -1,0 +1,45 @@
+﻿body {
+}
+
+header {
+	background-color: #2E43F5;
+	height: 120px;
+	left: 0;
+	top: 0;
+	right: 0;
+	position: fixed;
+}
+
+footer {
+	background-color: #2E43F5;
+	color: #fff;
+	height: 60px;
+	position: fixed;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	text-align: center;
+	padding-top: 10px;
+}
+
+section {
+	padding-top: 130px;
+	margin-bottom: 70px;
+}
+
+.headerlogo {
+	float: left;
+	width: 160px;
+	height: auto;
+	margin-left: 10px;
+	margin-top: 10px;
+}
+
+ul li {
+	list-style: none
+}
+
+#panel_contenido {
+	margin-top: -228px;
+	margin-left: 220px
+}
