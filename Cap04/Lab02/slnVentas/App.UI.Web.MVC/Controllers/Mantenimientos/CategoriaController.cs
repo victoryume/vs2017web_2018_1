@@ -40,7 +40,17 @@ namespace App.UI.Web.MVC.Controllers.Mantenimientos
 
         public ActionResult Edit(int id)
         {
-            return View();
+            var model = categoriaService.GetById(id);
+            return View("Create", model);
+            
+        }
+
+        [HttpPost]
+        public ActionResult Edit(Categoria model)
+        {
+            var result = categoriaService.Save(model);
+
+            return RedirectToAction("Index");
         }
     }
 }

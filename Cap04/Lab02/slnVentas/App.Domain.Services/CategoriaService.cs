@@ -15,17 +15,29 @@ namespace App.Domain.Services
         public IEnumerable<Categoria> GetAll(string nombre)
         {
 
-            List<Categoria> results;
-            
+            List<Categoria> result;
+
             using (var unitOfWork = new AppUnitOfWork())
             {
-                results = unitOfWork.CategoriaRepository.GetAll(
+                result = unitOfWork.CategoriaRepository.GetAll(
                     item => item.Nombre.Contains(nombre)
                     ).ToList();
             }
 
-            return results;
+            return result;
 
+        }
+
+        public Categoria GetById(int id)
+        {
+            Categoria result;
+
+            using (var unitOfWork = new AppUnitOfWork())
+            {
+                result = unitOfWork.CategoriaRepository.GetById(id);
+            }
+
+            return result;
         }
 
         public bool Save(Categoria entity)
@@ -35,19 +47,21 @@ namespace App.Domain.Services
             try
             {
 
-                if (entity.CategoriaID == 0)//registro nuevo
+                using (var unitOfWork = new AppUnitOfWork())
                 {
-                    using (var unitOfWork = new AppUnitOfWork())
+
+                    if (entity.CategoriaID == 0)//registro nuevo
                     {
                         unitOfWork.CategoriaRepository.Add(entity);
-                        unitOfWork.Complete();
                     }
-                }
-                else//edición
-                {
-                    
-                }
+                    else
+                    {
+                        unitOfWork.CategoriaRepository.Update(entity);
+                    }
 
+                    unitOfWork.Complete();
+
+                }
 
                 result = true;
             }

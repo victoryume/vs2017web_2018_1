@@ -11,5 +11,6 @@ namespace App.Domain.Services.Interfaces
     {
         IEnumerable<Categoria> GetAll(string nombre);
         bool Save(Categoria entity);
+        Categoria GetById(int id);
     }
 }
