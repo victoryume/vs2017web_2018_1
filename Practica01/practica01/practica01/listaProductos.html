@@ -47,21 +47,21 @@
 	</footer>
 	<script type="text/javascript">
 
-		var productos = cibertec.helpers.GetObjetctLocalStorage('registroProducto');
-		
-		
+        var productos = cibertec.helpers.GetObjetctLocalStorage('registroProducto')||[];
+        	
+        var MyHtml = '';
 
-		var MyHtml = '';
-		
-			MyHtml += '<tr>';
-		MyHtml += '<td>' + productos.nombre+'</td>';
-		MyHtml += '<td>' + productos.categoria+'</td>';
-		MyHtml += '<td>' + productos.marca+'</td>';
-		MyHtml += '<td>' + productos.precio+'</td>';
-		MyHtml += '<td>' + productos.stock+'</td>';
-			MyHtml += '</tr > ';
-			
-			$('#tabla_productos tbody').append(MyHtml);
+        productos.forEach(function (producto) {
+            MyHtml += '<tr>';
+            MyHtml += '<td>' + producto.nombre + '</td>';
+            MyHtml += '<td>' + producto.categoria + '</td>';
+            MyHtml += '<td>' + producto.marca + '</td>';
+            MyHtml += '<td>' + producto.precio + '</td>';
+            MyHtml += '<td>' + producto.stock + '</td>';
+            MyHtml += '</tr > ';
+        });
+               		
+	    $('#tabla_productos tbody').append(MyHtml);
 		
 
 	</script>

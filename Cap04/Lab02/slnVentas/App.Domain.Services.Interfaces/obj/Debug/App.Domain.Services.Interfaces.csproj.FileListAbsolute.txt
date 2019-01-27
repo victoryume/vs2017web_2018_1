@@ -1,0 +1,9 @@
+E:\V- C# Web\Versionado\vs2017web_2018_1\Cap04\Lab02\slnVentas\App.Domain.Services.Interfaces\bin\Debug\App.Domain.Services.Interfaces.dll
+E:\V- C# Web\Versionado\vs2017web_2018_1\Cap04\Lab02\slnVentas\App.Domain.Services.Interfaces\bin\Debug\App.Domain.Services.Interfaces.pdb
+E:\V- C# Web\Versionado\vs2017web_2018_1\Cap04\Lab02\slnVentas\App.Domain.Services.Interfaces\bin\Debug\App.Entities.Base.dll
+E:\V- C# Web\Versionado\vs2017web_2018_1\Cap04\Lab02\slnVentas\App.Domain.Services.Interfaces\bin\Debug\App.Entities.Base.pdb
+E:\V- C# Web\Versionado\vs2017web_2018_1\Cap04\Lab02\slnVentas\App.Domain.Services.Interfaces\obj\Debug\App.Domain.Services.Interfaces.csprojAssemblyReference.cache
+E:\V- C# Web\Versionado\vs2017web_2018_1\Cap04\Lab02\slnVentas\App.Domain.Services.Interfaces\obj\Debug\App.Domain.Services.Interfaces.csproj.CoreCompileInputs.cache
+E:\V- C# Web\Versionado\vs2017web_2018_1\Cap04\Lab02\slnVentas\App.Domain.Services.Interfaces\obj\Debug\App.Domain.Services.Interfaces.csproj.CopyComplete
+E:\V- C# Web\Versionado\vs2017web_2018_1\Cap04\Lab02\slnVentas\App.Domain.Services.Interfaces\obj\Debug\App.Domain.Services.Interfaces.dll
+E:\V- C# Web\Versionado\vs2017web_2018_1\Cap04\Lab02\slnVentas\App.Domain.Services.Interfaces\obj\Debug\App.Domain.Services.Interfaces.pdb

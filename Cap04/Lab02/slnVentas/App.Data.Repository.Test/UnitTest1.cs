@@ -39,12 +39,10 @@ namespace App.Data.Repository.Test
                 unitOfWork.CategoriaRepository.Add(categoria);
 
                 Assert.IsTrue(categoria.CategoriaID > 0);
-
-
+                
             }
         }
 
     }
-
 
 }
