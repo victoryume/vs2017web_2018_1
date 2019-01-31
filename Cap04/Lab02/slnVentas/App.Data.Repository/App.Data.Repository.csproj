@@ -50,6 +50,8 @@
     <Compile Include="AppUnitOfWork.cs" />
     <Compile Include="CategoriaRepository.cs" />
     <Compile Include="GenericRepository.cs" />
+    <Compile Include="UnidadMedidaRepository.cs" />
+    <Compile Include="MarcaRepository.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

@@ -19,3 +19,24 @@ E:\V- C# Web\Versionado\vs2017web_2018_1\Cap04\Lab02\slnVentas\App.Domain.Servic
 E:\V- C# Web\Versionado\vs2017web_2018_1\Cap04\Lab02\slnVentas\App.Domain.Services\obj\Debug\App.Domain.Services.csproj.CopyComplete
 E:\V- C# Web\Versionado\vs2017web_2018_1\Cap04\Lab02\slnVentas\App.Domain.Services\obj\Debug\App.Domain.Services.dll
 E:\V- C# Web\Versionado\vs2017web_2018_1\Cap04\Lab02\slnVentas\App.Domain.Services\obj\Debug\App.Domain.Services.pdb
+C:\Users\victor.yupanqui\Documents\GitHub\vs2017web_2018_1\Cap04\Lab02\slnVentas\App.Domain.Services\bin\Debug\App.Domain.Services.dll
+C:\Users\victor.yupanqui\Documents\GitHub\vs2017web_2018_1\Cap04\Lab02\slnVentas\App.Domain.Services\bin\Debug\App.Domain.Services.pdb
+C:\Users\victor.yupanqui\Documents\GitHub\vs2017web_2018_1\Cap04\Lab02\slnVentas\App.Domain.Services\bin\Debug\App.Data.DataBase.dll
+C:\Users\victor.yupanqui\Documents\GitHub\vs2017web_2018_1\Cap04\Lab02\slnVentas\App.Domain.Services\bin\Debug\App.Data.Repository.dll
+C:\Users\victor.yupanqui\Documents\GitHub\vs2017web_2018_1\Cap04\Lab02\slnVentas\App.Domain.Services\bin\Debug\App.Data.Repository.Interfaces.dll
+C:\Users\victor.yupanqui\Documents\GitHub\vs2017web_2018_1\Cap04\Lab02\slnVentas\App.Domain.Services\bin\Debug\App.Domain.Services.Interfaces.dll
+C:\Users\victor.yupanqui\Documents\GitHub\vs2017web_2018_1\Cap04\Lab02\slnVentas\App.Domain.Services\bin\Debug\App.Entities.Base.dll
+C:\Users\victor.yupanqui\Documents\GitHub\vs2017web_2018_1\Cap04\Lab02\slnVentas\App.Domain.Services\bin\Debug\EntityFramework.dll
+C:\Users\victor.yupanqui\Documents\GitHub\vs2017web_2018_1\Cap04\Lab02\slnVentas\App.Domain.Services\bin\Debug\App.Data.DataBase.pdb
+C:\Users\victor.yupanqui\Documents\GitHub\vs2017web_2018_1\Cap04\Lab02\slnVentas\App.Domain.Services\bin\Debug\App.Data.DataBase.dll.config
+C:\Users\victor.yupanqui\Documents\GitHub\vs2017web_2018_1\Cap04\Lab02\slnVentas\App.Domain.Services\bin\Debug\App.Data.Repository.Interfaces.pdb
+C:\Users\victor.yupanqui\Documents\GitHub\vs2017web_2018_1\Cap04\Lab02\slnVentas\App.Domain.Services\bin\Debug\App.Data.Repository.pdb
+C:\Users\victor.yupanqui\Documents\GitHub\vs2017web_2018_1\Cap04\Lab02\slnVentas\App.Domain.Services\bin\Debug\App.Data.Repository.dll.config
+C:\Users\victor.yupanqui\Documents\GitHub\vs2017web_2018_1\Cap04\Lab02\slnVentas\App.Domain.Services\bin\Debug\App.Domain.Services.Interfaces.pdb
+C:\Users\victor.yupanqui\Documents\GitHub\vs2017web_2018_1\Cap04\Lab02\slnVentas\App.Domain.Services\bin\Debug\App.Entities.Base.pdb
+C:\Users\victor.yupanqui\Documents\GitHub\vs2017web_2018_1\Cap04\Lab02\slnVentas\App.Domain.Services\bin\Debug\EntityFramework.xml
+C:\Users\victor.yupanqui\Documents\GitHub\vs2017web_2018_1\Cap04\Lab02\slnVentas\App.Domain.Services\obj\Debug\App.Domain.Services.csprojAssemblyReference.cache
+C:\Users\victor.yupanqui\Documents\GitHub\vs2017web_2018_1\Cap04\Lab02\slnVentas\App.Domain.Services\obj\Debug\App.Domain.Services.csproj.CoreCompileInputs.cache
+C:\Users\victor.yupanqui\Documents\GitHub\vs2017web_2018_1\Cap04\Lab02\slnVentas\App.Domain.Services\obj\Debug\App.Domain.Services.csproj.CopyComplete
+C:\Users\victor.yupanqui\Documents\GitHub\vs2017web_2018_1\Cap04\Lab02\slnVentas\App.Domain.Services\obj\Debug\App.Domain.Services.dll
+C:\Users\victor.yupanqui\Documents\GitHub\vs2017web_2018_1\Cap04\Lab02\slnVentas\App.Domain.Services\obj\Debug\App.Domain.Services.pdb

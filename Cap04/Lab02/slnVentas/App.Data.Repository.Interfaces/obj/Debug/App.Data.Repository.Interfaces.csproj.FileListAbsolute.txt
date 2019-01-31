@@ -7,3 +7,12 @@ E:\V- C# Web\Versionado\vs2017web_2018_1\Cap04\Lab02\slnVentas\App.Data.Reposito
 E:\V- C# Web\Versionado\vs2017web_2018_1\Cap04\Lab02\slnVentas\App.Data.Repository.Interfaces\obj\Debug\App.Data.Repository.Interfaces.csproj.CopyComplete
 E:\V- C# Web\Versionado\vs2017web_2018_1\Cap04\Lab02\slnVentas\App.Data.Repository.Interfaces\obj\Debug\App.Data.Repository.Interfaces.dll
 E:\V- C# Web\Versionado\vs2017web_2018_1\Cap04\Lab02\slnVentas\App.Data.Repository.Interfaces\obj\Debug\App.Data.Repository.Interfaces.pdb
+C:\Users\victor.yupanqui\Documents\GitHub\vs2017web_2018_1\Cap04\Lab02\slnVentas\App.Data.Repository.Interfaces\bin\Debug\App.Data.Repository.Interfaces.dll
+C:\Users\victor.yupanqui\Documents\GitHub\vs2017web_2018_1\Cap04\Lab02\slnVentas\App.Data.Repository.Interfaces\bin\Debug\App.Data.Repository.Interfaces.pdb
+C:\Users\victor.yupanqui\Documents\GitHub\vs2017web_2018_1\Cap04\Lab02\slnVentas\App.Data.Repository.Interfaces\bin\Debug\App.Entities.Base.dll
+C:\Users\victor.yupanqui\Documents\GitHub\vs2017web_2018_1\Cap04\Lab02\slnVentas\App.Data.Repository.Interfaces\bin\Debug\App.Entities.Base.pdb
+C:\Users\victor.yupanqui\Documents\GitHub\vs2017web_2018_1\Cap04\Lab02\slnVentas\App.Data.Repository.Interfaces\obj\Debug\App.Data.Repository.Interfaces.csprojAssemblyReference.cache
+C:\Users\victor.yupanqui\Documents\GitHub\vs2017web_2018_1\Cap04\Lab02\slnVentas\App.Data.Repository.Interfaces\obj\Debug\App.Data.Repository.Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\victor.yupanqui\Documents\GitHub\vs2017web_2018_1\Cap04\Lab02\slnVentas\App.Data.Repository.Interfaces\obj\Debug\App.Data.Repository.Interfaces.csproj.CopyComplete
+C:\Users\victor.yupanqui\Documents\GitHub\vs2017web_2018_1\Cap04\Lab02\slnVentas\App.Data.Repository.Interfaces\obj\Debug\App.Data.Repository.Interfaces.dll
+C:\Users\victor.yupanqui\Documents\GitHub\vs2017web_2018_1\Cap04\Lab02\slnVentas\App.Data.Repository.Interfaces\obj\Debug\App.Data.Repository.Interfaces.pdb
