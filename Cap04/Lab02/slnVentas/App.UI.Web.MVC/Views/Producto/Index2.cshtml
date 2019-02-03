@@ -23,7 +23,7 @@
         </div>
         <div class="col-md-3">
             <br />
-            <button class="btn btn-primary">Buscar</button>
+            <button type="button" id="btnConsultar" class="btn btn-primary">Buscar</button>
         </div>
     </div>
 
@@ -52,3 +52,30 @@
         </tr>
     }
 </table>
+@section scriptsAdicionales
+{
+    <script type="text/javascript">
+
+        $(document).ready(configInit);
+
+        function configInit() {
+            $('#btnConsultar').on('click', buscar);
+        }
+
+        function buscar() {
+            //Funciones jquery ajax
+            $.post(@Url.Action("Index2", "Producto"),
+                  {
+                    filterByName: $('#filterByName').val(),
+                    filterByCategoria: $('#filterByCategoria').val(),
+                    filterByMarca: $('#filterByMarca').val()
+                },
+                function (response) {
+
+                }
+            );
+        }
+
+    </script>
+}
+

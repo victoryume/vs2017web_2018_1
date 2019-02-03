@@ -33,5 +33,18 @@ namespace App.UI.Web.MVC.Controllers.Mantenimientos
             var model = productoService.GetAll(filterByName, filterByCategoria, filterByMarca);
             return View(model);
         }
+
+        // GET: Producto
+        public ActionResult Index2(string filterByName, int? filterByCategoria, int? filterByMarca)
+        {
+            filterByName = string.IsNullOrWhiteSpace(filterByName) ? "" : filterByName.Trim();
+            ViewBag.filterByName = filterByName;
+            ViewBag.Categorias = categoriaService.GetAll("");
+            ViewBag.Marcas = marcaService.GetAll("");
+
+
+            var model = productoService.GetAll(filterByName, filterByCategoria, filterByMarca);
+            return View(model);
+        }
     }
 }
