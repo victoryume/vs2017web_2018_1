@@ -22,6 +22,8 @@
             <label for="inputEmail3" class="col-sm-2 control-label">Nombre</label>
             <div class="col-sm-10">
                 @Html.EditorFor(model => model.Nombre, new { htmlAttributes = new { @class = "form-control" } })
+
+                @Html.ValidationMessageFor(model => model.Nombre, "", new {@class = "text-danger" } )
             </div>
         </div>
 
@@ -43,4 +45,8 @@
         </div>
 
     </div>
+}
+@section scriptsAdicionales
+{
+    @Scripts.Render("~/bundles/jqueryval")
 }
