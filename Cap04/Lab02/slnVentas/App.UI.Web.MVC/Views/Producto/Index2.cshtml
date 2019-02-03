@@ -9,7 +9,7 @@
     <div class="row">
         <div class="col-md-3">
             <label>Buscar por Nombre</label>
-            <input name="filterByName" class="form-control" value="@ViewBag.filterByName" placeholder="Digitar..." />
+            <input name="filterByName" id="filterByName" class="form-control" value="" placeholder="Digitar..." />
         </div>
         <div class="col-md-3">
             <label>Buscar por Categoría</label>
@@ -29,29 +29,8 @@
 
 }
 <br />
-<table class="table table-hover">
-    <tr>
-        <th>Código</th>
-        <th>Nombre</th>
-        <th>Categoría</th>
-        <th>Marca</th>
-        <th>Precio Mayor</th>
-        <th>Precio Menor</th>
-        <th>Stock Actual</th>
-    </tr>
-    @foreach (var item in Model)
-    {
-        <tr>
-            <td>@item.ProductoCode</td>
-            <td>@item.Nombre</td>
-            <td>@item.Categoria.Nombre</td>
-            <td>@item.Marca.Nombre</td>
-            <td>@item.PrecioMayor</td>
-            <td>@item.PrecioMenor</td>
-            <td>@item.StockActual</td>
-        </tr>
-    }
-</table>
+<div id="resultado" class="row">
+</div>
 @section scriptsAdicionales
 {
     <script type="text/javascript">
@@ -64,14 +43,15 @@
 
         function buscar() {
             //Funciones jquery ajax
-            $.post(@Url.Action("Index2", "Producto"),
+            $.post("@Url.Action("Index2Buscar", "Producto")",
                   {
                     filterByName: $('#filterByName').val(),
                     filterByCategoria: $('#filterByCategoria').val(),
                     filterByMarca: $('#filterByMarca').val()
                 },
                 function (response) {
-
+                    
+                    $('#resultado').html(response);
                 }
             );
         }

@@ -211,6 +211,7 @@
     <Content Include="Views\UnidadMedida\Index.cshtml" />
     <Content Include="Views\Producto\Index.cshtml" />
     <Content Include="Views\Producto\Index2.cshtml" />
+    <Content Include="Views\Producto\Index2Resultado.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
