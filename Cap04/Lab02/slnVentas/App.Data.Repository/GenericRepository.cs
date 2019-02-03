@@ -30,21 +30,29 @@ namespace App.Data.Repository
         }
 
         public IEnumerable<TEntity> GetAll(
-            Expression<Func<TEntity, bool>> predicate = null
+            Expression<Func<TEntity, bool>> predicate = null,
+            string includes = null
             )
         {
             var result = new List<TEntity>();
+            IQueryable<TEntity> query = this.context.Set<TEntity>();
 
+            //Includes
+            if (includes != null)
+            {
+                foreach (var tableInclude in includes.Split(','))
+                {
+                    query = query.Include(tableInclude);
+                }
+            }
+            
+            //Where
             if (predicate != null)
             {
-                result = this.context.Set<TEntity>().Where(predicate).ToList();
-            }
-            else
-            {
-                result = this.context.Set<TEntity>().ToList();
+                query = query.Where(predicate);
             }
 
-            return result;
+            return query.ToList();
         }
 
         public TEntity GetById(int id)

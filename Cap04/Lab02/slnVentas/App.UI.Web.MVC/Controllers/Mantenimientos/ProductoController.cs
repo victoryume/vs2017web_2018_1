@@ -18,9 +18,11 @@ namespace App.UI.Web.MVC.Controllers.Mantenimientos
         }
 
         // GET: Producto
-        public ActionResult Index()
+        public ActionResult Index(string filterByName)
         {
-            var model = productoService.GetAll("");
+            filterByName = string.IsNullOrWhiteSpace(filterByName)? "" : filterByName.Trim();
+            ViewBag.filterByName = filterByName;
+            var model = productoService.GetAll(filterByName);
             return View(model);
         }
     }

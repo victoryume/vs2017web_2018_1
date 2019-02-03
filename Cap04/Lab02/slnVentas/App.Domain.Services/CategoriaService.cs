@@ -16,7 +16,7 @@ namespace App.Domain.Services
         {
 
             List<Categoria> result;
-
+            
             using (var unitOfWork = new AppUnitOfWork())
             {
                 result = unitOfWork.CategoriaRepository.GetAll(

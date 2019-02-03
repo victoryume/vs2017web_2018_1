@@ -16,11 +16,11 @@ namespace App.Domain.Services
         {
 
             List<Producto> result;
-
+           
             using (var unitOfWork = new AppUnitOfWork())
             {
                 result = unitOfWork.ProductoRepository.GetAll(
-                    item => item.Nombre.Contains(nombre)
+                    item => item.Nombre.Contains(nombre), "Categoria,Marca"
                     ).ToList();
             }
 

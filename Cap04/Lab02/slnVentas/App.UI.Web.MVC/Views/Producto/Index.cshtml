@@ -4,15 +4,25 @@
 }
 
 <h2>Lista de Productos</h2>
-<table>
+
+@using (Html.BeginForm())
+{
+
+    <input name="filterByName" class="form-control" value="@ViewBag.filterByName" placeholder="Digitar..."/>
+    <br />
+    <button class="btn btn-primary">Buscar</button>
+    <br /><br />
+}
+
+<table class="table table-hover">
     <tr>
-        <td>Código</td>
-        <td>Nombre</td>
-        <td>Categoría</td>
-        <td>Marca</td>
-        <td>Precio Mayor</td>
-        <td>Precio Menor</td>
-        <td>Stock Actual</td>
+        <th>Código</th>
+        <th>Nombre</th>
+        <th>Categoría</th>
+        <th>Marca</th>
+        <th>Precio Mayor</th>
+        <th>Precio Menor</th>
+        <th>Stock Actual</th>
     </tr>
     @foreach (var item in Model)
     {
@@ -25,6 +35,6 @@
             <td>@item.PrecioMenor</td>
             <td>@item.StockActual</td>
         </tr>
-    }
+        }
 </table>
 
