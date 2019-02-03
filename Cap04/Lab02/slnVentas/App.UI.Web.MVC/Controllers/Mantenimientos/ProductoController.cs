@@ -1,5 +1,6 @@
 ﻿using App.Domain.Services;
 using App.Domain.Services.Interfaces;
+using Newtonsoft.Json;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -70,7 +71,11 @@ namespace App.UI.Web.MVC.Controllers.Mantenimientos
 
             var model = productoService.GetAll(filterByName, filterByCategoria, filterByMarca);
 
-            return Json(model);
+            JsonSerializerSettings config = new JsonSerializerSettings { ReferenceLoopHandling = Newtonsoft.Json.ReferenceLoopHandling.Ignore };
+
+            var model2 = JsonConvert.SerializeObject(model, Formatting.Indented, config);
+
+            return Json(model2);
         }
     }
 }
