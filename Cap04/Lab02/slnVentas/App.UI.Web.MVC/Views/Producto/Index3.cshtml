@@ -28,11 +28,10 @@
     </div>
 
 }
-<br />
-<div id="resultado" class="row">
-</div>
+
 @section scriptsAdicionales
 {
+    <script src="~/Scripts/mustache.min.js"></script>
     <script type="text/javascript">
 
         $(document).ready(configInit);
@@ -43,14 +42,14 @@
 
         function buscar() {
             //Funciones jquery ajax
-            $.post("@Url.Action("Index2Buscar", "Producto")",
+            $.post("@Url.Action("Index3Buscar", "Producto")",
                   {
                     filterByName: $('#filterByName').val(),
                     filterByCategoria: $('#filterByCategoria').val(),
                     filterByMarca: $('#filterByMarca').val()
                 },
                 function (response) {
-                    $('#resultado').html(response);
+                    debugger;
                 }
             );
         }

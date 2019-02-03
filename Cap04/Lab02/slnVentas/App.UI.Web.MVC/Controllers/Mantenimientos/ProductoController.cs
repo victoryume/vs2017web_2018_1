@@ -45,6 +45,16 @@ namespace App.UI.Web.MVC.Controllers.Mantenimientos
             return View();
         }
 
+        public ActionResult Index3(string filterByName, int? filterByCategoria, int? filterByMarca)
+        {
+            filterByName = string.IsNullOrWhiteSpace(filterByName) ? "" : filterByName.Trim();
+            //ViewBag.filterByName = filterByName;
+            ViewBag.Categorias = categoriaService.GetAll("");
+            ViewBag.Marcas = marcaService.GetAll("");
+            //var model = productoService.GetAll(filterByName, filterByCategoria, filterByMarca);
+            return View();
+        }
+
         public ActionResult Index2Buscar(string filterByName, int? filterByCategoria, int? filterByMarca)
         {
             filterByName = string.IsNullOrWhiteSpace(filterByName) ? "" : filterByName.Trim();
@@ -52,6 +62,15 @@ namespace App.UI.Web.MVC.Controllers.Mantenimientos
             var model = productoService.GetAll(filterByName, filterByCategoria, filterByMarca);
             
             return PartialView("Index2Resultado", model);
+        }
+
+        public JsonResult Index3Buscar(string filterByName, int? filterByCategoria, int? filterByMarca)
+        {
+            filterByName = string.IsNullOrWhiteSpace(filterByName) ? "" : filterByName.Trim();
+
+            var model = productoService.GetAll(filterByName, filterByCategoria, filterByMarca);
+
+            return Json(model);
         }
     }
 }
