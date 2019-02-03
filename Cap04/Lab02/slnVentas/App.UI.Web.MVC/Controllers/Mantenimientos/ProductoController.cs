@@ -1,4 +1,6 @@
-﻿using System;
+﻿using App.Domain.Services;
+using App.Domain.Services.Interfaces;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
@@ -8,10 +10,18 @@ namespace App.UI.Web.MVC.Controllers.Mantenimientos
 {
     public class ProductoController : Controller
     {
+        private readonly IProductoService productoService;
+
+        public ProductoController()
+        {
+            productoService = new ProductoService();
+        }
+
         // GET: Producto
         public ActionResult Index()
         {
-            return View();
+            var model = productoService.GetAll("");
+            return View(model);
         }
     }
 }
