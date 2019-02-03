@@ -12,7 +12,7 @@ namespace App.Domain.Services
 {
     public class ProductoService : IProductoService
     {
-        public IEnumerable<Producto> GetAll(string nombre)
+        public IEnumerable<Producto> GetAll(string nombre, int? categoriaID, int? marcaID)
         {
 
             List<Producto> result;
@@ -20,7 +20,10 @@ namespace App.Domain.Services
             using (var unitOfWork = new AppUnitOfWork())
             {
                 result = unitOfWork.ProductoRepository.GetAll(
-                    item => item.Nombre.Contains(nombre), "Categoria,Marca"
+                    item => item.Nombre.Contains(nombre) 
+                    && (categoriaID == null ||item.CategoriaID== categoriaID)
+                    && (marcaID == null || item.MarcaID == marcaID)
+                    , "Categoria,Marca"
                     ).ToList();
             }
 

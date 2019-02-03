@@ -7,8 +7,16 @@
 
 @using (Html.BeginForm())
 {
-
-    <input name="filterByName" class="form-control" value="@ViewBag.filterByName" placeholder="Digitar..."/>
+    <label>Buscar por Nombre</label>
+    <input name="filterByName" class="form-control" value="@ViewBag.filterByName" placeholder="Digitar..." />
+    <br />
+    <label>Buscar por Categoría</label>
+    @*<input name="filterByCategoria" class="form-control"/>*@
+    @Html.DropDownList("filterByCategoria", new SelectList(ViewBag.Categorias, "CategoriaId", "Nombre"), "Todos", new { @class = "form-control" })
+    <br />
+    <label>Buscar por Marca</label>
+    @*<input name="filterByCategoria" class="form-control"/>*@
+    @Html.DropDownList("filterByMarca", new SelectList(ViewBag.Marcas, "MarcaId", "Nombre"), "Todos", new { @class = "form-control" })
     <br />
     <button class="btn btn-primary">Buscar</button>
     <br /><br />
@@ -35,6 +43,6 @@
             <td>@item.PrecioMenor</td>
             <td>@item.StockActual</td>
         </tr>
-        }
+    }
 </table>
 

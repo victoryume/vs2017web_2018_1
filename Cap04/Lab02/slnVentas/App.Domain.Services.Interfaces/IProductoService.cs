@@ -9,6 +9,6 @@ namespace App.Domain.Services.Interfaces
 {
     public interface IProductoService
     {
-        IEnumerable<Producto> GetAll(string nombre);
+        IEnumerable<Producto> GetAll(string nombre, int? categoriaID, int? marcaID);
     }
 }
