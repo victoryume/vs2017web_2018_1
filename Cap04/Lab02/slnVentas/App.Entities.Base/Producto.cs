@@ -35,9 +35,9 @@ namespace App.Entities.Base
 
         public bool Estado { get; set; }
 
-        public Guid UsuarioCreador { get; set; }
+        public Guid? UsuarioCreador { get; set; }
 
-        public DateTime FechaCreacion { get; set; }
+        public DateTime? FechaCreacion { get; set; }
 
         public Guid? UsuarioModificador { get; set; }
 

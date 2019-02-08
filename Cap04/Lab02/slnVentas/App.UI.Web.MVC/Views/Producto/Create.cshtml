@@ -1,0 +1,128 @@
+﻿@model App.Entities.Base.Producto
+
+@{
+    ViewBag.Title = "Create";
+}
+
+<h2>Crear Producto</h2>
+
+@*Sin HTML Helper*@
+@*<form action="/Categoria/Create" method="post">
+        <label>Nombre:</label><input type="text" name="nombre" /><br />
+        <label>Descripción:</label><input type="text" name="descripcion" /><br />
+        <button class="btn btn-success">Guardar</button>
+    </form>*@
+
+@*Con HTML Helper*@
+@using (Html.BeginForm())
+{
+    <div class="form-horizontal">
+        @Html.HiddenFor(item => item.ProductoID)
+        <div class="form-group">
+            <label for="inputEmail3" class="col-sm-2 control-label">Código Producto</label>
+            <div class="col-sm-10">
+                @Html.EditorFor(model => model.ProductoCode, new { htmlAttributes = new { @class = "form-control" } })
+
+                @Html.ValidationMessageFor(model => model.ProductoCode, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            <label for="inputEmail3" class="col-sm-2 control-label">Nombre</label>
+            <div class="col-sm-10">
+                @Html.EditorFor(model => model.Nombre, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.Nombre, "", new { @class = "text-danger" })
+            </div>
+        </div>
+        <div class="form-group">
+            <label for="inputEmail3" class="col-sm-2 control-label">Categoría</label>
+            <div class="col-sm-10">
+                @Html.DropDownList("CategoriaId", new SelectList(ViewBag.Categorias, "CategoriaId", "Nombre"), "Todas", new { @class = "form-control" })
+            </div>
+        </div>
+        <div class="form-group">
+            <label for="inputEmail3" class="col-sm-2 control-label">Unidad Medida</label>
+            <div class="col-sm-10">
+                @Html.DropDownList("UnidadMedidaID", new SelectList(ViewBag.UnidadMedida, "UnidadMedidaID", "Nombre"), "Todas", new { @class = "form-control" })
+            </div>
+        </div>
+        <div class="form-group">
+            <label for="inputEmail3" class="col-sm-2 control-label">Marca</label>
+            <div class="col-sm-10">
+                @Html.DropDownList("MarcaId", new SelectList(ViewBag.Marcas, "MarcaId", "Nombre"), "Todos", new { @class = "form-control" })
+            </div>
+        </div>
+        <div class="form-group">
+            <label for="inputEmail3" class="col-sm-2 control-label">Precio Mayor</label>
+            <div class="col-sm-10">
+                @Html.EditorFor(model => model.PrecioMayor, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.PrecioMayor, "", new { @class = "text-danger" })
+            </div>
+        </div>
+        <div class="form-group">
+            <label for="inputEmail3" class="col-sm-2 control-label">Precio Menor</label>
+            <div class="col-sm-10">
+                @Html.EditorFor(model => model.PrecioMenor, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.PrecioMenor, "", new { @class = "text-danger" })
+            </div>
+        </div>
+        <div class="form-group">
+            <label for="inputEmail3" class="col-sm-2 control-label">Stock Actual</label>
+            <div class="col-sm-10">
+                @Html.EditorFor(model => model.StockActual, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.StockActual, "", new { @class = "text-danger" })
+            </div>
+        </div>
+        <div class="form-group">
+            <label for="inputEmail3" class="col-sm-2 control-label">Stock Mínimo</label>
+            <div class="col-sm-10">
+                @Html.EditorFor(model => model.StockMinimo, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.StockMinimo, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            <div class="col-sm-offset-2 col-sm-10">
+                <button id="btnGuardar" class="btn btn-success">Guardar</button>
+            </div>
+        </div>
+
+    </div>
+}
+@section scriptsAdicionales
+{
+    @Scripts.Render("~/bundles/jqueryval")
+
+    @*<script type="text/javascript">
+
+        $(document).ready(configInit);
+
+        function configInit() {
+            $('#btnGuardar').on('click', guardar);
+        }
+
+        function guardar() {
+            //Funciones jquery ajax
+            $.post("@Url.Action("Create", "Producto")",
+                  {
+                    filterByName: $('#filterByName').val(),
+                    filterByCategoria: $('#filterByCategoria').val(),
+                    filterByMarca: $('#filterByMarca').val()
+                },
+                function (response) {
+                    var template = $('#resultadoTable').html();
+                    Mustache.parse(template);
+                    var htmlRender = Mustache.render(template,
+                        {
+                           Resultado : response
+                        }
+                    );
+
+                    $('#resultado').html(htmlRender);
+
+                }
+            );
+        }
+
+    </script>*@
+}

@@ -214,6 +214,7 @@
     <Content Include="Views\Producto\Index2.cshtml" />
     <Content Include="Views\Producto\Index2Resultado.cshtml" />
     <Content Include="Views\Producto\Index3.cshtml" />
+    <Content Include="Views\Producto\Create.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />

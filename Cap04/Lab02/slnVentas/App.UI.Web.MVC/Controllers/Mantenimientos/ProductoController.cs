@@ -1,5 +1,6 @@
 ﻿using App.Domain.Services;
 using App.Domain.Services.Interfaces;
+using App.Entities.Base;
 using Newtonsoft.Json;
 using System;
 using System.Collections.Generic;
@@ -14,12 +15,14 @@ namespace App.UI.Web.MVC.Controllers.Mantenimientos
         private readonly IProductoService productoService;
         private readonly ICategoriaService categoriaService;
         private readonly IMarcaService marcaService;
+        private readonly IUnidadMedidaService unidadMedidaService;
 
         public ProductoController()
         {
             productoService = new ProductoService();
             categoriaService = new CategoriaService();
             marcaService = new MarcaService();
+            unidadMedidaService = new UnidadMedidaService();
         }
 
         // GET: Producto
@@ -76,6 +79,42 @@ namespace App.UI.Web.MVC.Controllers.Mantenimientos
             var model2 = JsonConvert.SerializeObject(model, Formatting.Indented, config);
 
             return Json(model2);
+        }
+
+
+        public ActionResult Create()
+        {
+            ViewBag.Categorias = categoriaService.GetAll("");
+            ViewBag.Marcas = marcaService.GetAll("");
+            ViewBag.UnidadMedida = unidadMedidaService.GetAll("");
+            return View();
+        }
+
+        [HttpPost]
+        public ActionResult Create(Producto model)
+        {
+            var result = productoService.Save(model);
+
+            return RedirectToAction("Index");
+        }
+
+        public ActionResult Edit(int id)
+        {
+            ViewBag.Categorias = categoriaService.GetAll("");
+            ViewBag.Marcas = marcaService.GetAll("");
+            ViewBag.UnidadMedida = unidadMedidaService.GetAll("");
+
+            var model = productoService.GetById(id);
+            return View("Create", model);
+
+        }
+
+        [HttpPost]
+        public ActionResult Edit(Producto model)
+        {
+            var result = productoService.Save(model);
+
+            return RedirectToAction("Index");
         }
     }
 }
