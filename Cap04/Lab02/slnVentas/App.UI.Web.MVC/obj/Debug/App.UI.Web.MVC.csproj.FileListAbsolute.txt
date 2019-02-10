@@ -234,3 +234,5 @@ C:\Users\victor.yupanqui\Documents\GitHub\vs2017web_2018_1\Cap04\Lab02\slnVentas
 C:\Users\victor.yupanqui\Documents\GitHub\vs2017web_2018_1\Cap04\Lab02\slnVentas\App.UI.Web.MVC\obj\Debug\App.UI.Web.MVC.csproj.CopyComplete
 C:\Users\victor.yupanqui\Documents\GitHub\vs2017web_2018_1\Cap04\Lab02\slnVentas\App.UI.Web.MVC\obj\Debug\App.UI.Web.MVC.dll
 C:\Users\victor.yupanqui\Documents\GitHub\vs2017web_2018_1\Cap04\Lab02\slnVentas\App.UI.Web.MVC\obj\Debug\App.UI.Web.MVC.pdb
+E:\V- C# Web\Versionado\vs2017web_2018_1\Cap04\Lab02\slnVentas\App.UI.Web.MVC\bin\log4net.dll
+E:\V- C# Web\Versionado\vs2017web_2018_1\Cap04\Lab02\slnVentas\App.UI.Web.MVC\bin\log4net.xml

@@ -6,14 +6,14 @@ using Newtonsoft.Json;
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Reflection;
 using System.Web;
 using System.Web.Mvc;
 
 namespace App.UI.Web.MVC.Controllers.Mantenimientos
 {
-    [LoggingFilter]
-    [HandleCustomError]
-    public class ProductoController : Controller
+
+    public class ProductoController : BaseController
     {
         private readonly IProductoService productoService;
         private readonly ICategoriaService categoriaService;
@@ -35,8 +35,7 @@ namespace App.UI.Web.MVC.Controllers.Mantenimientos
             ViewBag.filterByName = filterByName;
             ViewBag.Categorias = categoriaService.GetAll("");
             ViewBag.Marcas = marcaService.GetAll("");
-
-
+            
             var model = productoService.GetAll(filterByName, filterByCategoria, filterByMarca);
             return View(model);
         }
@@ -44,11 +43,19 @@ namespace App.UI.Web.MVC.Controllers.Mantenimientos
         // GET: Producto
         public ActionResult Index2(string filterByName, int? filterByCategoria, int? filterByMarca)
         {
-            filterByName = string.IsNullOrWhiteSpace(filterByName) ? "" : filterByName.Trim();
-            ViewBag.Categorias = categoriaService.GetAll("");
-            ViewBag.Marcas = marcaService.GetAll("");
+            try
+            {
 
-            throw new Exception("Lanzando un error simulado");
+                filterByName = string.IsNullOrWhiteSpace(filterByName) ? "" : filterByName.Trim();
+                ViewBag.Categorias = categoriaService.GetAll("");
+                ViewBag.Marcas = marcaService.GetAll("");
+
+                throw new Exception("Lanzando un error simulado");
+            }
+            catch (Exception ex)
+            {
+                log.Error(ex);
+            }
 
             return View();
         }
