@@ -68,13 +68,13 @@
                 function (response) {
                     var template = $('#resultadoTable').html();
                     Mustache.parse(template);
-                    var htmlRender = Mustache.render(template,
+                    var htmlRendered = Mustache.render(template,
                         {
-                           Resultado : response
+                           Resultado : JSON.parse(response)
                         }
                     );
 
-                    $('#resultado').html(htmlRender);
+                    $('#resultado').html(htmlRendered);
 
                 }
             );

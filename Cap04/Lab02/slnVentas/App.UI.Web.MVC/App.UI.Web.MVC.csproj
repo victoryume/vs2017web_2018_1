@@ -159,6 +159,8 @@
     <Compile Include="Controllers\Mantenimientos\MarcaController.cs" />
     <Compile Include="Controllers\Mantenimientos\ProductoController.cs" />
     <Compile Include="Controllers\Mantenimientos\UnidadMedidaController.cs" />
+    <Compile Include="Filters\HandleCustomError.cs" />
+    <Compile Include="Filters\LoggingFilterAtribute.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>

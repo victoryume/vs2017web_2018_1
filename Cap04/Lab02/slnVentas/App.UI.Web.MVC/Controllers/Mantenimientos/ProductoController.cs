@@ -1,6 +1,7 @@
 ﻿using App.Domain.Services;
 using App.Domain.Services.Interfaces;
 using App.Entities.Base;
+using App.UI.Web.MVC.Filters;
 using Newtonsoft.Json;
 using System;
 using System.Collections.Generic;
@@ -10,6 +11,8 @@ using System.Web.Mvc;
 
 namespace App.UI.Web.MVC.Controllers.Mantenimientos
 {
+    [LoggingFilter]
+    [HandleCustomError]
     public class ProductoController : Controller
     {
         private readonly IProductoService productoService;
@@ -42,10 +45,11 @@ namespace App.UI.Web.MVC.Controllers.Mantenimientos
         public ActionResult Index2(string filterByName, int? filterByCategoria, int? filterByMarca)
         {
             filterByName = string.IsNullOrWhiteSpace(filterByName) ? "" : filterByName.Trim();
-            //ViewBag.filterByName = filterByName;
             ViewBag.Categorias = categoriaService.GetAll("");
             ViewBag.Marcas = marcaService.GetAll("");
-            //var model = productoService.GetAll(filterByName, filterByCategoria, filterByMarca);
+
+            throw new Exception("Lanzando un error simulado");
+
             return View();
         }
 
