@@ -2,6 +2,7 @@
 using App.Domain.Services.Interfaces;
 using App.Entities.Base;
 using App.UI.Web.MVC.Filters;
+using App.UI.Web.MVC.Models.ViewModels;
 using Newtonsoft.Json;
 using System;
 using System.Collections.Generic;
@@ -41,11 +42,21 @@ namespace App.UI.Web.MVC.Controllers.Mantenimientos
         }
 
         // GET: Producto
+        public ActionResult IndexVM(ProductoSearchViewModel model)
+        {
+            
+            model.Categorias = categoriaService.GetAll("").ToList();
+            model.Marcas = marcaService.GetAll("").ToList();
+            model.Productos = productoService.GetAll(model.filterByName, model.filterByCategoria, model.filterByMarca).ToList();
+
+            return View(model);
+        }
+
+        // GET: Producto
         public ActionResult Index2(string filterByName, int? filterByCategoria, int? filterByMarca)
         {
             try
             {
-
                 filterByName = string.IsNullOrWhiteSpace(filterByName) ? "" : filterByName.Trim();
                 ViewBag.Categorias = categoriaService.GetAll("");
                 ViewBag.Marcas = marcaService.GetAll("");
