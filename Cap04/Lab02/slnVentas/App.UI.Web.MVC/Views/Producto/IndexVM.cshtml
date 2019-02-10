@@ -15,11 +15,11 @@
         </div>
         <div class="col-md-3">
             <label>Buscar por Categoría</label>
-            @Html.DropDownListFor(item => item.filterByCategoria, new SelectList(ViewBag.Categorias, "CategoriaId", "Nombre"), "Todos", new { @class = "form-control" })
+            @Html.DropDownListFor(item => item.filterByCategoria, new SelectList(Model.Categorias, "CategoriaId", "Nombre"), "Todos", new { @class = "form-control" })
         </div>
         <div class="col-md-2">
             <label>Buscar por Marca</label>
-            @Html.DropDownListFor(item => item.filterByMarca, new SelectList(ViewBag.Marcas, "MarcaId", "Nombre"), "Todos", new { @class = "form-control" })
+            @Html.DropDownListFor(item => item.filterByMarca, new SelectList(Model.Marcas, "MarcaId", "Nombre"), "Todos", new { @class = "form-control" })
         </div>
         <div class="col-md-4">
             <br />
@@ -41,7 +41,7 @@
         <th>Stock Actual</th>
         <th>#</th>
     </tr>
-    @foreach (var item in Model)
+    @foreach (var item in Model.Productos)
     {
         <tr>
             <td>@item.ProductoCode</td>

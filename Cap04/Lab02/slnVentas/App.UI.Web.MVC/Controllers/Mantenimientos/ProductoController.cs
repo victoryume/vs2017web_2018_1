@@ -44,7 +44,9 @@ namespace App.UI.Web.MVC.Controllers.Mantenimientos
         // GET: Producto
         public ActionResult IndexVM(ProductoSearchViewModel model)
         {
-            
+
+            model.filterByName = string.IsNullOrWhiteSpace(model.filterByName) ? "" : model.filterByName.Trim();
+
             model.Categorias = categoriaService.GetAll("").ToList();
             model.Marcas = marcaService.GetAll("").ToList();
             model.Productos = productoService.GetAll(model.filterByName, model.filterByCategoria, model.filterByMarca).ToList();
