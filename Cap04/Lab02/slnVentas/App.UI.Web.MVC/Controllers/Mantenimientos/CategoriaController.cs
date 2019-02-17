@@ -14,9 +14,9 @@ namespace App.UI.Web.MVC.Controllers.Mantenimientos
     {
         private readonly ICategoriaService categoriaService;
 
-        public CategoriaController()
+        public CategoriaController(ICategoriaService pcategoriaService)
         {
-            categoriaService = new CategoriaService();
+            categoriaService = pcategoriaService;
         }
 
         // GET: Categoria

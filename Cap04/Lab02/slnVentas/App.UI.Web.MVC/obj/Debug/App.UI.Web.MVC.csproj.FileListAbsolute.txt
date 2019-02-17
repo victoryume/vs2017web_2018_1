@@ -236,3 +236,9 @@ C:\Users\victor.yupanqui\Documents\GitHub\vs2017web_2018_1\Cap04\Lab02\slnVentas
 C:\Users\victor.yupanqui\Documents\GitHub\vs2017web_2018_1\Cap04\Lab02\slnVentas\App.UI.Web.MVC\obj\Debug\App.UI.Web.MVC.pdb
 E:\V- C# Web\Versionado\vs2017web_2018_1\Cap04\Lab02\slnVentas\App.UI.Web.MVC\bin\log4net.dll
 E:\V- C# Web\Versionado\vs2017web_2018_1\Cap04\Lab02\slnVentas\App.UI.Web.MVC\bin\log4net.xml
+E:\V- C# Web\Versionado\vs2017web_2018_1\Cap04\Lab02\slnVentas\App.UI.Web.MVC\bin\SimpleInjector.dll
+E:\V- C# Web\Versionado\vs2017web_2018_1\Cap04\Lab02\slnVentas\App.UI.Web.MVC\bin\SimpleInjector.Integration.Web.dll
+E:\V- C# Web\Versionado\vs2017web_2018_1\Cap04\Lab02\slnVentas\App.UI.Web.MVC\bin\SimpleInjector.Integration.Web.Mvc.dll
+E:\V- C# Web\Versionado\vs2017web_2018_1\Cap04\Lab02\slnVentas\App.UI.Web.MVC\bin\SimpleInjector.xml
+E:\V- C# Web\Versionado\vs2017web_2018_1\Cap04\Lab02\slnVentas\App.UI.Web.MVC\bin\SimpleInjector.Integration.Web.xml
+E:\V- C# Web\Versionado\vs2017web_2018_1\Cap04\Lab02\slnVentas\App.UI.Web.MVC\bin\SimpleInjector.Integration.Web.Mvc.xml
