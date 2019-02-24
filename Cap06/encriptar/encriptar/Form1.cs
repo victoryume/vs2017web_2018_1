@@ -23,8 +23,11 @@ namespace encriptar
             string password = "123456";
             using (var deriveBytes = new Rfc2898DeriveBytes(password, 20))
             {
-                byte[] saltos = deriveBytes.Salt;
+                byte[] salt = deriveBytes.Salt;
                 byte[] key = deriveBytes.GetBytes(20);
+
+                string encodeSalt = Convert.ToBase64String(salt);
+                string encodeKey = Convert.ToBase64String(key);
 
             }
         }
