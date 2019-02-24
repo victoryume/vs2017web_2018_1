@@ -1,0 +1,105 @@
+C:\Labs\lab01\Clase06\slnVentas\App.Domain.Services\bin\Debug\App.Domain.Services.dll
+C:\Labs\lab01\Clase06\slnVentas\App.Domain.Services\bin\Debug\App.Domain.Services.pdb
+C:\Labs\lab01\Clase06\slnVentas\App.Domain.Services\bin\Debug\App.Data.Repository.dll
+C:\Labs\lab01\Clase06\slnVentas\App.Domain.Services\bin\Debug\App.Data.Repository.Interfaces.dll
+C:\Labs\lab01\Clase06\slnVentas\App.Domain.Services\bin\Debug\App.Domain.Services.Interfaces.dll
+C:\Labs\lab01\Clase06\slnVentas\App.Domain.Services\bin\Debug\App.Entities.Base.dll
+C:\Labs\lab01\Clase06\slnVentas\App.Domain.Services\bin\Debug\EntityFramework.dll
+C:\Labs\lab01\Clase06\slnVentas\App.Domain.Services\bin\Debug\App.Data.DataBase.dll
+C:\Labs\lab01\Clase06\slnVentas\App.Domain.Services\bin\Debug\App.Data.Repository.Interfaces.pdb
+C:\Labs\lab01\Clase06\slnVentas\App.Domain.Services\bin\Debug\App.Data.Repository.pdb
+C:\Labs\lab01\Clase06\slnVentas\App.Domain.Services\bin\Debug\App.Data.Repository.dll.config
+C:\Labs\lab01\Clase06\slnVentas\App.Domain.Services\bin\Debug\App.Domain.Services.Interfaces.pdb
+C:\Labs\lab01\Clase06\slnVentas\App.Domain.Services\bin\Debug\App.Entities.Base.pdb
+C:\Labs\lab01\Clase06\slnVentas\App.Domain.Services\bin\Debug\EntityFramework.xml
+C:\Labs\lab01\Clase06\slnVentas\App.Domain.Services\bin\Debug\App.Data.DataBase.pdb
+C:\Labs\lab01\Clase06\slnVentas\App.Domain.Services\bin\Debug\App.Data.DataBase.dll.config
+C:\Labs\lab01\Clase06\slnVentas\App.Domain.Services\obj\Debug\App.Domain.Services.csprojAssemblyReference.cache
+C:\Labs\lab01\Clase06\slnVentas\App.Domain.Services\obj\Debug\App.Domain.Services.csproj.CoreCompileInputs.cache
+C:\Labs\lab01\Clase06\slnVentas\App.Domain.Services\obj\Debug\App.Domain.Services.csproj.CopyComplete
+C:\Labs\lab01\Clase06\slnVentas\App.Domain.Services\obj\Debug\App.Domain.Services.dll
+C:\Labs\lab01\Clase06\slnVentas\App.Domain.Services\obj\Debug\App.Domain.Services.pdb
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase06\slnVentas\App.Domain.Services\bin\Debug\App.Domain.Services.dll
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase06\slnVentas\App.Domain.Services\bin\Debug\App.Domain.Services.pdb
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase06\slnVentas\App.Domain.Services\bin\Debug\App.Data.Repository.dll
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase06\slnVentas\App.Domain.Services\bin\Debug\App.Data.Repository.Interfaces.dll
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase06\slnVentas\App.Domain.Services\bin\Debug\App.Domain.Services.Interfaces.dll
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase06\slnVentas\App.Domain.Services\bin\Debug\App.Entities.Base.dll
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase06\slnVentas\App.Domain.Services\bin\Debug\EntityFramework.dll
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase06\slnVentas\App.Domain.Services\bin\Debug\App.Data.DataBase.dll
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase06\slnVentas\App.Domain.Services\bin\Debug\App.Data.Repository.Interfaces.pdb
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase06\slnVentas\App.Domain.Services\bin\Debug\App.Data.Repository.pdb
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase06\slnVentas\App.Domain.Services\bin\Debug\App.Data.Repository.dll.config
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase06\slnVentas\App.Domain.Services\bin\Debug\App.Domain.Services.Interfaces.pdb
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase06\slnVentas\App.Domain.Services\bin\Debug\App.Entities.Base.pdb
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase06\slnVentas\App.Domain.Services\bin\Debug\EntityFramework.xml
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase06\slnVentas\App.Domain.Services\bin\Debug\App.Data.DataBase.pdb
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase06\slnVentas\App.Domain.Services\bin\Debug\App.Data.DataBase.dll.config
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase06\slnVentas\App.Domain.Services\obj\Debug\App.Domain.Services.csprojAssemblyReference.cache
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase06\slnVentas\App.Domain.Services\obj\Debug\App.Domain.Services.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase06\slnVentas\App.Domain.Services\obj\Debug\App.Domain.Services.csproj.CopyComplete
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase06\slnVentas\App.Domain.Services\obj\Debug\App.Domain.Services.dll
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase06\slnVentas\App.Domain.Services\obj\Debug\App.Domain.Services.pdb
+C:\Labs\lab01\Clase07\slnVentas\App.Domain.Services\bin\Debug\App.Domain.Services.dll
+C:\Labs\lab01\Clase07\slnVentas\App.Domain.Services\bin\Debug\App.Domain.Services.pdb
+C:\Labs\lab01\Clase07\slnVentas\App.Domain.Services\bin\Debug\App.Data.Repository.dll
+C:\Labs\lab01\Clase07\slnVentas\App.Domain.Services\bin\Debug\App.Data.Repository.Interfaces.dll
+C:\Labs\lab01\Clase07\slnVentas\App.Domain.Services\bin\Debug\App.Domain.Services.Interfaces.dll
+C:\Labs\lab01\Clase07\slnVentas\App.Domain.Services\bin\Debug\App.Entities.Base.dll
+C:\Labs\lab01\Clase07\slnVentas\App.Domain.Services\bin\Debug\EntityFramework.dll
+C:\Labs\lab01\Clase07\slnVentas\App.Domain.Services\bin\Debug\App.Data.DataBase.dll
+C:\Labs\lab01\Clase07\slnVentas\App.Domain.Services\bin\Debug\App.Data.Repository.Interfaces.pdb
+C:\Labs\lab01\Clase07\slnVentas\App.Domain.Services\bin\Debug\App.Data.Repository.pdb
+C:\Labs\lab01\Clase07\slnVentas\App.Domain.Services\bin\Debug\App.Data.Repository.dll.config
+C:\Labs\lab01\Clase07\slnVentas\App.Domain.Services\bin\Debug\App.Domain.Services.Interfaces.pdb
+C:\Labs\lab01\Clase07\slnVentas\App.Domain.Services\bin\Debug\App.Entities.Base.pdb
+C:\Labs\lab01\Clase07\slnVentas\App.Domain.Services\bin\Debug\EntityFramework.xml
+C:\Labs\lab01\Clase07\slnVentas\App.Domain.Services\bin\Debug\App.Data.DataBase.pdb
+C:\Labs\lab01\Clase07\slnVentas\App.Domain.Services\bin\Debug\App.Data.DataBase.dll.config
+C:\Labs\lab01\Clase07\slnVentas\App.Domain.Services\obj\Debug\App.Domain.Services.csprojAssemblyReference.cache
+C:\Labs\lab01\Clase07\slnVentas\App.Domain.Services\obj\Debug\App.Domain.Services.csproj.CoreCompileInputs.cache
+C:\Labs\lab01\Clase07\slnVentas\App.Domain.Services\obj\Debug\App.Domain.Services.csproj.CopyComplete
+C:\Labs\lab01\Clase07\slnVentas\App.Domain.Services\obj\Debug\App.Domain.Services.dll
+C:\Labs\lab01\Clase07\slnVentas\App.Domain.Services\obj\Debug\App.Domain.Services.pdb
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase07\slnVentas\App.Domain.Services\bin\Debug\App.Domain.Services.dll
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase07\slnVentas\App.Domain.Services\bin\Debug\App.Domain.Services.pdb
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase07\slnVentas\App.Domain.Services\bin\Debug\App.Data.Repository.dll
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase07\slnVentas\App.Domain.Services\bin\Debug\App.Data.Repository.Interfaces.dll
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase07\slnVentas\App.Domain.Services\bin\Debug\App.Domain.Services.Interfaces.dll
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase07\slnVentas\App.Domain.Services\bin\Debug\App.Entities.Base.dll
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase07\slnVentas\App.Domain.Services\bin\Debug\EntityFramework.dll
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase07\slnVentas\App.Domain.Services\bin\Debug\App.Data.DataBase.dll
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase07\slnVentas\App.Domain.Services\bin\Debug\App.Data.Repository.Interfaces.pdb
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase07\slnVentas\App.Domain.Services\bin\Debug\App.Data.Repository.pdb
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase07\slnVentas\App.Domain.Services\bin\Debug\App.Data.Repository.dll.config
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase07\slnVentas\App.Domain.Services\bin\Debug\App.Domain.Services.Interfaces.pdb
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase07\slnVentas\App.Domain.Services\bin\Debug\App.Entities.Base.pdb
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase07\slnVentas\App.Domain.Services\bin\Debug\EntityFramework.xml
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase07\slnVentas\App.Domain.Services\bin\Debug\App.Data.DataBase.pdb
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase07\slnVentas\App.Domain.Services\bin\Debug\App.Data.DataBase.dll.config
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase07\slnVentas\App.Domain.Services\obj\Debug\App.Domain.Services.csprojAssemblyReference.cache
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase07\slnVentas\App.Domain.Services\obj\Debug\App.Domain.Services.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase07\slnVentas\App.Domain.Services\obj\Debug\App.Domain.Services.csproj.CopyComplete
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase07\slnVentas\App.Domain.Services\obj\Debug\App.Domain.Services.dll
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase07\slnVentas\App.Domain.Services\obj\Debug\App.Domain.Services.pdb
+E:\V- C# Web\Versionado\vs2017web_2018_1\Cap04\Lab02\Tarea ultima clase\slnVentas\App.Domain.Services\bin\Debug\App.Domain.Services.dll
+E:\V- C# Web\Versionado\vs2017web_2018_1\Cap04\Lab02\Tarea ultima clase\slnVentas\App.Domain.Services\bin\Debug\App.Domain.Services.pdb
+E:\V- C# Web\Versionado\vs2017web_2018_1\Cap04\Lab02\Tarea ultima clase\slnVentas\App.Domain.Services\bin\Debug\App.Data.Repository.dll
+E:\V- C# Web\Versionado\vs2017web_2018_1\Cap04\Lab02\Tarea ultima clase\slnVentas\App.Domain.Services\bin\Debug\App.Data.Repository.Interfaces.dll
+E:\V- C# Web\Versionado\vs2017web_2018_1\Cap04\Lab02\Tarea ultima clase\slnVentas\App.Domain.Services\bin\Debug\App.Domain.Services.Interfaces.dll
+E:\V- C# Web\Versionado\vs2017web_2018_1\Cap04\Lab02\Tarea ultima clase\slnVentas\App.Domain.Services\bin\Debug\App.Entities.Base.dll
+E:\V- C# Web\Versionado\vs2017web_2018_1\Cap04\Lab02\Tarea ultima clase\slnVentas\App.Domain.Services\bin\Debug\EntityFramework.dll
+E:\V- C# Web\Versionado\vs2017web_2018_1\Cap04\Lab02\Tarea ultima clase\slnVentas\App.Domain.Services\bin\Debug\App.Data.DataBase.dll
+E:\V- C# Web\Versionado\vs2017web_2018_1\Cap04\Lab02\Tarea ultima clase\slnVentas\App.Domain.Services\bin\Debug\App.Data.Repository.Interfaces.pdb
+E:\V- C# Web\Versionado\vs2017web_2018_1\Cap04\Lab02\Tarea ultima clase\slnVentas\App.Domain.Services\bin\Debug\App.Data.Repository.pdb
+E:\V- C# Web\Versionado\vs2017web_2018_1\Cap04\Lab02\Tarea ultima clase\slnVentas\App.Domain.Services\bin\Debug\App.Data.Repository.dll.config
+E:\V- C# Web\Versionado\vs2017web_2018_1\Cap04\Lab02\Tarea ultima clase\slnVentas\App.Domain.Services\bin\Debug\App.Domain.Services.Interfaces.pdb
+E:\V- C# Web\Versionado\vs2017web_2018_1\Cap04\Lab02\Tarea ultima clase\slnVentas\App.Domain.Services\bin\Debug\App.Entities.Base.pdb
+E:\V- C# Web\Versionado\vs2017web_2018_1\Cap04\Lab02\Tarea ultima clase\slnVentas\App.Domain.Services\bin\Debug\EntityFramework.xml
+E:\V- C# Web\Versionado\vs2017web_2018_1\Cap04\Lab02\Tarea ultima clase\slnVentas\App.Domain.Services\bin\Debug\App.Data.DataBase.pdb
+E:\V- C# Web\Versionado\vs2017web_2018_1\Cap04\Lab02\Tarea ultima clase\slnVentas\App.Domain.Services\bin\Debug\App.Data.DataBase.dll.config
+E:\V- C# Web\Versionado\vs2017web_2018_1\Cap04\Lab02\Tarea ultima clase\slnVentas\App.Domain.Services\obj\Debug\App.Domain.Services.csprojAssemblyReference.cache
+E:\V- C# Web\Versionado\vs2017web_2018_1\Cap04\Lab02\Tarea ultima clase\slnVentas\App.Domain.Services\obj\Debug\App.Domain.Services.csproj.CoreCompileInputs.cache
+E:\V- C# Web\Versionado\vs2017web_2018_1\Cap04\Lab02\Tarea ultima clase\slnVentas\App.Domain.Services\obj\Debug\App.Domain.Services.csproj.CopyComplete
+E:\V- C# Web\Versionado\vs2017web_2018_1\Cap04\Lab02\Tarea ultima clase\slnVentas\App.Domain.Services\obj\Debug\App.Domain.Services.dll
+E:\V- C# Web\Versionado\vs2017web_2018_1\Cap04\Lab02\Tarea ultima clase\slnVentas\App.Domain.Services\obj\Debug\App.Domain.Services.pdb

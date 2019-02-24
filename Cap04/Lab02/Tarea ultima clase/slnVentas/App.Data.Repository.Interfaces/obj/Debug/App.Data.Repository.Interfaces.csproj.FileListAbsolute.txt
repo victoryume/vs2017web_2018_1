@@ -1,0 +1,54 @@
+C:\Labs\lab01\Clase05\slnVentas\App.Data.Repository.Interfaces\bin\Debug\App.Data.Repository.Interfaces.dll
+C:\Labs\lab01\Clase05\slnVentas\App.Data.Repository.Interfaces\bin\Debug\App.Data.Repository.Interfaces.pdb
+C:\Labs\lab01\Clase05\slnVentas\App.Data.Repository.Interfaces\obj\Debug\App.Data.Repository.Interfaces.csprojAssemblyReference.cache
+C:\Labs\lab01\Clase05\slnVentas\App.Data.Repository.Interfaces\obj\Debug\App.Data.Repository.Interfaces.csproj.CoreCompileInputs.cache
+C:\Labs\lab01\Clase05\slnVentas\App.Data.Repository.Interfaces\obj\Debug\App.Data.Repository.Interfaces.dll
+C:\Labs\lab01\Clase05\slnVentas\App.Data.Repository.Interfaces\obj\Debug\App.Data.Repository.Interfaces.pdb
+C:\Labs\lab01\Clase05\slnVentas\App.Data.Repository.Interfaces\bin\Debug\App.Entities.Base.dll
+C:\Labs\lab01\Clase05\slnVentas\App.Data.Repository.Interfaces\bin\Debug\App.Entities.Base.pdb
+C:\Labs\lab01\Clase05\slnVentas\App.Data.Repository.Interfaces\obj\Debug\App.Data.Repository.Interfaces.csproj.CopyComplete
+C:\Labs\lab01\Clase06\slnVentas\App.Data.Repository.Interfaces\bin\Debug\App.Data.Repository.Interfaces.dll
+C:\Labs\lab01\Clase06\slnVentas\App.Data.Repository.Interfaces\bin\Debug\App.Data.Repository.Interfaces.pdb
+C:\Labs\lab01\Clase06\slnVentas\App.Data.Repository.Interfaces\bin\Debug\App.Entities.Base.dll
+C:\Labs\lab01\Clase06\slnVentas\App.Data.Repository.Interfaces\bin\Debug\App.Entities.Base.pdb
+C:\Labs\lab01\Clase06\slnVentas\App.Data.Repository.Interfaces\obj\Debug\App.Data.Repository.Interfaces.csprojAssemblyReference.cache
+C:\Labs\lab01\Clase06\slnVentas\App.Data.Repository.Interfaces\obj\Debug\App.Data.Repository.Interfaces.csproj.CoreCompileInputs.cache
+C:\Labs\lab01\Clase06\slnVentas\App.Data.Repository.Interfaces\obj\Debug\App.Data.Repository.Interfaces.csproj.CopyComplete
+C:\Labs\lab01\Clase06\slnVentas\App.Data.Repository.Interfaces\obj\Debug\App.Data.Repository.Interfaces.dll
+C:\Labs\lab01\Clase06\slnVentas\App.Data.Repository.Interfaces\obj\Debug\App.Data.Repository.Interfaces.pdb
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase06\slnVentas\App.Data.Repository.Interfaces\bin\Debug\App.Data.Repository.Interfaces.dll
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase06\slnVentas\App.Data.Repository.Interfaces\bin\Debug\App.Data.Repository.Interfaces.pdb
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase06\slnVentas\App.Data.Repository.Interfaces\bin\Debug\App.Entities.Base.dll
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase06\slnVentas\App.Data.Repository.Interfaces\bin\Debug\App.Entities.Base.pdb
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase06\slnVentas\App.Data.Repository.Interfaces\obj\Debug\App.Data.Repository.Interfaces.csprojAssemblyReference.cache
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase06\slnVentas\App.Data.Repository.Interfaces\obj\Debug\App.Data.Repository.Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase06\slnVentas\App.Data.Repository.Interfaces\obj\Debug\App.Data.Repository.Interfaces.csproj.CopyComplete
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase06\slnVentas\App.Data.Repository.Interfaces\obj\Debug\App.Data.Repository.Interfaces.dll
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase06\slnVentas\App.Data.Repository.Interfaces\obj\Debug\App.Data.Repository.Interfaces.pdb
+C:\Labs\lab01\Clase07\slnVentas\App.Data.Repository.Interfaces\bin\Debug\App.Data.Repository.Interfaces.dll
+C:\Labs\lab01\Clase07\slnVentas\App.Data.Repository.Interfaces\bin\Debug\App.Data.Repository.Interfaces.pdb
+C:\Labs\lab01\Clase07\slnVentas\App.Data.Repository.Interfaces\bin\Debug\App.Entities.Base.dll
+C:\Labs\lab01\Clase07\slnVentas\App.Data.Repository.Interfaces\bin\Debug\App.Entities.Base.pdb
+C:\Labs\lab01\Clase07\slnVentas\App.Data.Repository.Interfaces\obj\Debug\App.Data.Repository.Interfaces.csprojAssemblyReference.cache
+C:\Labs\lab01\Clase07\slnVentas\App.Data.Repository.Interfaces\obj\Debug\App.Data.Repository.Interfaces.csproj.CoreCompileInputs.cache
+C:\Labs\lab01\Clase07\slnVentas\App.Data.Repository.Interfaces\obj\Debug\App.Data.Repository.Interfaces.csproj.CopyComplete
+C:\Labs\lab01\Clase07\slnVentas\App.Data.Repository.Interfaces\obj\Debug\App.Data.Repository.Interfaces.dll
+C:\Labs\lab01\Clase07\slnVentas\App.Data.Repository.Interfaces\obj\Debug\App.Data.Repository.Interfaces.pdb
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase07\slnVentas\App.Data.Repository.Interfaces\bin\Debug\App.Data.Repository.Interfaces.dll
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase07\slnVentas\App.Data.Repository.Interfaces\bin\Debug\App.Data.Repository.Interfaces.pdb
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase07\slnVentas\App.Data.Repository.Interfaces\bin\Debug\App.Entities.Base.dll
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase07\slnVentas\App.Data.Repository.Interfaces\bin\Debug\App.Entities.Base.pdb
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase07\slnVentas\App.Data.Repository.Interfaces\obj\Debug\App.Data.Repository.Interfaces.csprojAssemblyReference.cache
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase07\slnVentas\App.Data.Repository.Interfaces\obj\Debug\App.Data.Repository.Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase07\slnVentas\App.Data.Repository.Interfaces\obj\Debug\App.Data.Repository.Interfaces.csproj.CopyComplete
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase07\slnVentas\App.Data.Repository.Interfaces\obj\Debug\App.Data.Repository.Interfaces.dll
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase07\slnVentas\App.Data.Repository.Interfaces\obj\Debug\App.Data.Repository.Interfaces.pdb
+E:\V- C# Web\Versionado\vs2017web_2018_1\Cap04\Lab02\Tarea ultima clase\slnVentas\App.Data.Repository.Interfaces\bin\Debug\App.Data.Repository.Interfaces.dll
+E:\V- C# Web\Versionado\vs2017web_2018_1\Cap04\Lab02\Tarea ultima clase\slnVentas\App.Data.Repository.Interfaces\bin\Debug\App.Data.Repository.Interfaces.pdb
+E:\V- C# Web\Versionado\vs2017web_2018_1\Cap04\Lab02\Tarea ultima clase\slnVentas\App.Data.Repository.Interfaces\bin\Debug\App.Entities.Base.dll
+E:\V- C# Web\Versionado\vs2017web_2018_1\Cap04\Lab02\Tarea ultima clase\slnVentas\App.Data.Repository.Interfaces\bin\Debug\App.Entities.Base.pdb
+E:\V- C# Web\Versionado\vs2017web_2018_1\Cap04\Lab02\Tarea ultima clase\slnVentas\App.Data.Repository.Interfaces\obj\Debug\App.Data.Repository.Interfaces.csprojAssemblyReference.cache
+E:\V- C# Web\Versionado\vs2017web_2018_1\Cap04\Lab02\Tarea ultima clase\slnVentas\App.Data.Repository.Interfaces\obj\Debug\App.Data.Repository.Interfaces.csproj.CoreCompileInputs.cache
+E:\V- C# Web\Versionado\vs2017web_2018_1\Cap04\Lab02\Tarea ultima clase\slnVentas\App.Data.Repository.Interfaces\obj\Debug\App.Data.Repository.Interfaces.csproj.CopyComplete
+E:\V- C# Web\Versionado\vs2017web_2018_1\Cap04\Lab02\Tarea ultima clase\slnVentas\App.Data.Repository.Interfaces\obj\Debug\App.Data.Repository.Interfaces.dll
+E:\V- C# Web\Versionado\vs2017web_2018_1\Cap04\Lab02\Tarea ultima clase\slnVentas\App.Data.Repository.Interfaces\obj\Debug\App.Data.Repository.Interfaces.pdb
