@@ -30,6 +30,26 @@ namespace encriptar
                 string encodeKey = Convert.ToBase64String(key);
 
             }
+
+            string encodeSaltDB = "7RC1NTLhXNNFyzzmSgCOhHqv09M=";
+            string encodeKeyDB = "6j7WWvNartSVdI7zswQz++DQoFs=";
+
+            byte[] saltDB = Convert.FromBase64String(encodeSaltDB);
+            byte[] keyDB = Convert.FromBase64String(encodeKeyDB);
+            
+            string password2 = "123456";
+            using (var deriveBytes = new Rfc2898DeriveBytes(password2, saltDB))
+            {
+                byte[] testKey = deriveBytes.GetBytes(20);
+
+                if (testKey.SequenceEqual(keyDB))
+                {
+                    MessageBox.Show("Password válido");
+                }
+                else {
+                    MessageBox.Show("Password no válido");
+                }
+            }
         }
     }
 }
