@@ -103,3 +103,24 @@ E:\V- C# Web\Versionado\vs2017web_2018_1\Cap04\Lab02\Tarea ultima clase\slnVenta
 E:\V- C# Web\Versionado\vs2017web_2018_1\Cap04\Lab02\Tarea ultima clase\slnVentas\App.Domain.Services\obj\Debug\App.Domain.Services.csproj.CopyComplete
 E:\V- C# Web\Versionado\vs2017web_2018_1\Cap04\Lab02\Tarea ultima clase\slnVentas\App.Domain.Services\obj\Debug\App.Domain.Services.dll
 E:\V- C# Web\Versionado\vs2017web_2018_1\Cap04\Lab02\Tarea ultima clase\slnVentas\App.Domain.Services\obj\Debug\App.Domain.Services.pdb
+E:\V- C# Web\Versionado\vs2017web_2018_1\Cap06\slnVentas\App.Domain.Services\bin\Debug\App.Domain.Services.dll
+E:\V- C# Web\Versionado\vs2017web_2018_1\Cap06\slnVentas\App.Domain.Services\bin\Debug\App.Domain.Services.pdb
+E:\V- C# Web\Versionado\vs2017web_2018_1\Cap06\slnVentas\App.Domain.Services\bin\Debug\App.Data.Repository.dll
+E:\V- C# Web\Versionado\vs2017web_2018_1\Cap06\slnVentas\App.Domain.Services\bin\Debug\App.Data.Repository.Interfaces.dll
+E:\V- C# Web\Versionado\vs2017web_2018_1\Cap06\slnVentas\App.Domain.Services\bin\Debug\App.Domain.Services.Interfaces.dll
+E:\V- C# Web\Versionado\vs2017web_2018_1\Cap06\slnVentas\App.Domain.Services\bin\Debug\App.Entities.Base.dll
+E:\V- C# Web\Versionado\vs2017web_2018_1\Cap06\slnVentas\App.Domain.Services\bin\Debug\EntityFramework.dll
+E:\V- C# Web\Versionado\vs2017web_2018_1\Cap06\slnVentas\App.Domain.Services\bin\Debug\App.Data.DataBase.dll
+E:\V- C# Web\Versionado\vs2017web_2018_1\Cap06\slnVentas\App.Domain.Services\bin\Debug\App.Data.Repository.Interfaces.pdb
+E:\V- C# Web\Versionado\vs2017web_2018_1\Cap06\slnVentas\App.Domain.Services\bin\Debug\App.Data.Repository.pdb
+E:\V- C# Web\Versionado\vs2017web_2018_1\Cap06\slnVentas\App.Domain.Services\bin\Debug\App.Data.Repository.dll.config
+E:\V- C# Web\Versionado\vs2017web_2018_1\Cap06\slnVentas\App.Domain.Services\bin\Debug\App.Domain.Services.Interfaces.pdb
+E:\V- C# Web\Versionado\vs2017web_2018_1\Cap06\slnVentas\App.Domain.Services\bin\Debug\App.Entities.Base.pdb
+E:\V- C# Web\Versionado\vs2017web_2018_1\Cap06\slnVentas\App.Domain.Services\bin\Debug\EntityFramework.xml
+E:\V- C# Web\Versionado\vs2017web_2018_1\Cap06\slnVentas\App.Domain.Services\bin\Debug\App.Data.DataBase.pdb
+E:\V- C# Web\Versionado\vs2017web_2018_1\Cap06\slnVentas\App.Domain.Services\bin\Debug\App.Data.DataBase.dll.config
+E:\V- C# Web\Versionado\vs2017web_2018_1\Cap06\slnVentas\App.Domain.Services\obj\Debug\App.Domain.Services.csprojAssemblyReference.cache
+E:\V- C# Web\Versionado\vs2017web_2018_1\Cap06\slnVentas\App.Domain.Services\obj\Debug\App.Domain.Services.csproj.CoreCompileInputs.cache
+E:\V- C# Web\Versionado\vs2017web_2018_1\Cap06\slnVentas\App.Domain.Services\obj\Debug\App.Domain.Services.csproj.CopyComplete
+E:\V- C# Web\Versionado\vs2017web_2018_1\Cap06\slnVentas\App.Domain.Services\obj\Debug\App.Domain.Services.dll
+E:\V- C# Web\Versionado\vs2017web_2018_1\Cap06\slnVentas\App.Domain.Services\obj\Debug\App.Domain.Services.pdb

@@ -8,6 +8,7 @@ using System.Web.Mvc;
 
 namespace App.UI.Web.MVC.Controllers
 {
+    [Authorize]//Tiene que estar autenticado para mostrar las páginas
     [LoggingFilter]
     [HandleCustomError]
     public class BaseController : Controller

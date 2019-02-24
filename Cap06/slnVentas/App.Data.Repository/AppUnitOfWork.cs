@@ -18,6 +18,7 @@ namespace App.Data.Repository
         public IUnidadMedidaRepository UnidadMedidaRepository { get; set; }
         public IMarcaRepository MarcaRepository { get; set; }
         public IProductoRepository ProductoRepository { get; set; }
+        public IUsuarioRepository UsuarioRepository { get; set; }
 
         public AppUnitOfWork(DbContext context) {
             _context = context;
@@ -35,6 +36,7 @@ namespace App.Data.Repository
             this.UnidadMedidaRepository = new UnidadMedidaRepository(_context);
             this.MarcaRepository = new MarcaRepository(_context);
             this.ProductoRepository = new ProductoRepository(_context);
+            this.UsuarioRepository = new UsuarioRepository(_context);
         }
 
         public int Complete()

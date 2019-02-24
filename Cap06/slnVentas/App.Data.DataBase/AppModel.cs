@@ -11,6 +11,10 @@ namespace App.Data.DataBase
         public AppModel()
             : base("name=AppModel")
         {
+            Database.SetInitializer<AppModel>(null);//No validad las tablas con el modelo
+            this.Configuration.AutoDetectChangesEnabled = false;
+            this.Configuration.ValidateOnSaveEnabled = false;
+
             this.Configuration.LazyLoadingEnabled = false;
             this.Configuration.ProxyCreationEnabled = false;
         }
@@ -19,6 +23,7 @@ namespace App.Data.DataBase
         public virtual DbSet<Marca> Marca { get; set; }
         public virtual DbSet<Producto> Producto { get; set; }
         public virtual DbSet<UnidadMedida> UnidadMedida { get; set; }
+        public virtual DbSet<Usuario> Usuario { get; set; }
 
         protected override void OnModelCreating(DbModelBuilder modelBuilder)
         {
