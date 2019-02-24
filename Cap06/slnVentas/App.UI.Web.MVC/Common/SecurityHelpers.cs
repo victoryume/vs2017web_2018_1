@@ -33,9 +33,33 @@ namespace App.UI.Web.MVC.Common
         {
             var identity = (ClaimsIdentity)HttpContext.Current.User.Identity;
             var claims = identity.Claims.Where(item=>item.Type==type).ToList();
+                        
             return claims;
-
         }
         
+        public static string GetUserFullName()
+        {
+            var claimValue = GetClaimsByType(ClaimTypes.Name).FirstOrDefault()?.Value;
+
+            return claimValue;
+        }
+
+        public static int GetUsuarioID()
+        {
+            var claimValue = GetClaimsByType("UsuarioID").FirstOrDefault()!= null? Convert.ToInt32(GetClaimsByType ("UsuarioID").FirstOrDefault().Value):0;
+            return claimValue;
+        }
+
+        public static string GetEmail()
+        {
+            var claimValue = GetClaimsByType(ClaimTypes.Email).FirstOrDefault().Value;
+            return claimValue;
+        }
+
+        public static bool Islogged()
+        {
+            return HttpContext.Current.User.Identity.IsAuthenticated;
+        }
+
     }
 }

@@ -51,7 +51,13 @@ namespace App.UI.Web.MVC.Controllers
                 return View(model);
             }
 
-            //return View();
+        }
+
+        public ActionResult Salir()
+        {
+            Request.GetOwinContext().Authentication.SignOut();
+
+            return RedirectToAction("Login");
         }
 
     }

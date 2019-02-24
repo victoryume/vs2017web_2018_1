@@ -831,6 +831,9 @@
     <Content Include="Views\Producto\IndexAjax.cshtml" />
     <Content Include="Views\Producto\Create.cshtml" />
     <Content Include="Views\Seguridad\Login.cshtml" />
+    <Content Include="Views\Shared\UserLogged.cshtml" />
+    <Content Include="Views\Shared\_menu.cshtml" />
+    <Content Include="Views\Shared\_notificaciones.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
