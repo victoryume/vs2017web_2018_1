@@ -10,6 +10,7 @@ using App.UI.Web.MVC.ModelBinders;
 
 namespace App.UI.Web.MVC.Controllers.Mantenimientos
 {
+    [Authorize(Roles = "Admin")]
     public class CategoriaController : BaseController
     {
 

@@ -9,6 +9,7 @@ using System.Web.Mvc;
 
 namespace App.UI.Web.MVC.Controllers.Mantenimientos
 {
+    [Authorize(Roles = "Admin")]
     public class MarcaController : BaseController
     {
 
