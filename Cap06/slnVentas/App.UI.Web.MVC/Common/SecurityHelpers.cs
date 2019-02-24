@@ -61,5 +61,9 @@ namespace App.UI.Web.MVC.Common
             return HttpContext.Current.User.Identity.IsAuthenticated;
         }
 
+        public static bool IsAdmin()
+        {
+            return HttpContext.Current.User.IsInRole("Admin");
+        }
     }
 }
