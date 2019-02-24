@@ -15,6 +15,7 @@ namespace App.UI.Web.MVC.Models.ViewModels
         [DataType(DataType.Password)]
         public string Password { get; set; }
         public string MemsajeValidacion { get; set; }
+        public string ReturnUrl { get; set; }
 
     }
 }
