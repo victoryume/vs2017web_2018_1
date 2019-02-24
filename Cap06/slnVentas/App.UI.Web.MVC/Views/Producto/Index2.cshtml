@@ -1,0 +1,71 @@
+﻿@{
+    ViewBag.Title = "Index";
+
+}
+
+<h2>Lista de productos</h2>
+
+@using (Html.BeginForm())
+{
+    <div class="row">
+
+        <div class="col-md-3">
+            <label>Buscar por nombre: </label>
+            <input type="search" id="filterByName" class="form-control" value="" />
+        </div>
+
+        <div class="col-md-3">
+            <label>Buscar por categoría: </label>
+            @Html.DropDownList(
+                "filterByCategoria",
+                new SelectList(ViewBag.categorias,"CategoriaID","Nombre"),
+                "- Seleccionar -",
+                new { @class = "form-control" }
+            )
+        </div>
+        <div class="col-md-3">
+            <label>Buscar por marca: </label>
+            @Html.DropDownList(
+                "filterByMarca",
+                new SelectList(ViewBag.marcas,"MarcaID","Nombre"),
+                "- Seleccionar -",
+                new { @class = "form-control" }
+            )
+        </div>
+        <div class="col-md-3">
+            <br />
+            <button type="button" id="btnConsultar" class="btn btn-primary">Buscar</button>
+        </div>
+    </div>
+
+}
+
+<div id="resultado">
+</div>
+
+@section scriptsAdicionales
+{
+    <script>
+        //$(document).ready(configInit);
+        $(configInit());
+        function configInit() {
+            buscar();
+            $("#btnConsultar").on("click",buscar)
+        }
+
+        function buscar() {
+            //Funciones jquery ajax
+            $.post('@Url.Action("Index2Buscar","Producto")',
+                {
+                    filterByName: $("#filterByName").val(),
+                    filterByCategoria: $("#filterByCategoria").val(),
+                    filterByMarca: $("#filterByMarca").val()
+                },
+                function (response) {
+                    $("#resultado").html(response);                    
+                }
+            );
+        }
+
+    </script>
+}

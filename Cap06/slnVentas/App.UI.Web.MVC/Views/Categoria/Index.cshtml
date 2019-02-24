@@ -1,0 +1,49 @@
+﻿@{
+    ViewBag.CurrentPage = "Categoria";
+    ViewBag.Title = "Lista de Categorias";
+}
+
+<h2>Lista de Categorias</h2>
+
+@*Sin usar Html helpers*@
+@*<a href="/Categoria/Create" class="btn btn-success">Nueva Categoría</a>*@
+
+@*Usando HTML Helpers*@
+
+@*@Html.ActionLink("Nueva Categoría","Create","Categoria",new { @class = "btn btn-success" })*@
+
+<div class="row">
+    <div class="col-sm-1">        
+        <button onclick="app.helpers.showModal('CategoriaCreatePopup','@Url.Action("create")')" class="btn btn-success">Nuevo</button>
+    </div>
+
+    @using (Ajax.BeginForm("Buscar", "Categoria",
+        new AjaxOptions
+        {
+            HttpMethod = "POST",
+            InsertionMode = InsertionMode.Replace,
+            UpdateTargetId = "listado"
+        }))
+    {
+        <div class="row">
+            <div class="form-group col-sm-3 ">                
+                <input name="filterByName" id="filterByName" class="form-control" placeholder="Buscar por nombre" />
+            </div>
+            <div class="col-sm-2">                
+                <button type="submit" class="buscar btn btn-facebook">Buscar</button>
+            </div>
+        </div>
+    }
+</div>
+
+<div id="listado">
+    @Html.Action("Buscar")
+</div>
+
+@Modal.CrearModal("Crear Categoría", "CategoriaCreatePopup")
+
+@section scriptsAdicionales
+{
+    @Scripts.Render("~/bundles/jqueryval")
+}
+

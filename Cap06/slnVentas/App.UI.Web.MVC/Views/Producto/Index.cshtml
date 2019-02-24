@@ -1,0 +1,83 @@
+﻿@model IEnumerable<App.Entities.Base.Producto>
+@using App.UI.Web.MVC.CustomHtmlHelpers;
+
+@{
+    ViewBag.Title = "Index";
+
+}
+
+<h2>Lista de productos</h2>
+
+@using (Html.BeginForm())
+{
+    <div class="row">
+
+        <div class="col-md-3">
+            <label>Buscar por nombre: </label>
+            <input type="search" name="filterByName" class="form-control" value="@ViewBag.filterByName" />
+        </div>
+
+        <div class="col-md-3">
+            <label>Buscar por categoría: </label>
+            @Html.DropDownList(
+                "filterByCategoria",
+                new SelectList(ViewBag.categorias,"CategoriaID","Nombre",ViewBag.filterByCategoria),
+                "- Seleccionar -",
+                new { @class = "form-control" }
+            )
+        </div>
+        <div class="col-md-3">
+            <label>Buscar por marca: </label>
+            @Html.DropDownList(
+                "filterByMarca",
+                new SelectList(ViewBag.marcas,"MarcaID","Nombre",ViewBag.filterByMarca),
+                "- Seleccionar -",
+                new { @class = "form-control" }
+            )
+        </div>
+        <div class="col-md-3">
+            <br />
+            <button class="btn btn-primary">Buscar</button>
+        </div>
+    </div>
+
+}
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Código</th>
+            <th>Nombre</th>
+            <th>Categoría</th>
+            <th>Marca</th>
+            <th>Precio Mayor</th>
+            <th>Precio Menor</th>
+            <th> sotck Actual</th>
+            <th> sotck Actual</th>
+        </tr>
+    </thead>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@item.ProductoCode</td>
+            <td>@item.Nombre</td>
+            <td>@item.CategoriaID</td>
+            <td>@item.Categoria.Nombre</td>
+            <td>@item.Marca.Nombre</td>
+            <td>@item.PrecioMayor</td>
+            <td>@item.PrecioMenor</td>
+            <td>@item.StockActual</td>
+            <td>@Html.SemaforoStock( (int)item.StockActual )</td>            
+        </tr>
+    }
+
+
+</table>
+
+@section scriptsAdicionales
+{
+    <script>
+
+    </script>
+}

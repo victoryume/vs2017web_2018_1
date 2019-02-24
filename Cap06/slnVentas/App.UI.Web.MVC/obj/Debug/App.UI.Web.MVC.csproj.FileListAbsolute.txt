@@ -1,0 +1,866 @@
+C:\Labs\lab01\Clase06\slnVentas\App.UI.Web.MVC\bin\ApplicationInsights.config
+C:\Labs\lab01\Clase06\slnVentas\App.UI.Web.MVC\bin\App.UI.Web.MVC.dll.config
+C:\Labs\lab01\Clase06\slnVentas\App.UI.Web.MVC\bin\App.UI.Web.MVC.dll
+C:\Labs\lab01\Clase06\slnVentas\App.UI.Web.MVC\bin\App.UI.Web.MVC.pdb
+C:\Labs\lab01\Clase06\slnVentas\App.UI.Web.MVC\bin\roslyn\csc.exe
+C:\Labs\lab01\Clase06\slnVentas\App.UI.Web.MVC\bin\roslyn\csc.exe.config
+C:\Labs\lab01\Clase06\slnVentas\App.UI.Web.MVC\bin\roslyn\csc.rsp
+C:\Labs\lab01\Clase06\slnVentas\App.UI.Web.MVC\bin\roslyn\csi.exe
+C:\Labs\lab01\Clase06\slnVentas\App.UI.Web.MVC\bin\roslyn\csi.exe.config
+C:\Labs\lab01\Clase06\slnVentas\App.UI.Web.MVC\bin\roslyn\csi.rsp
+C:\Labs\lab01\Clase06\slnVentas\App.UI.Web.MVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Labs\lab01\Clase06\slnVentas\App.UI.Web.MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Labs\lab01\Clase06\slnVentas\App.UI.Web.MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Labs\lab01\Clase06\slnVentas\App.UI.Web.MVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Labs\lab01\Clase06\slnVentas\App.UI.Web.MVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Labs\lab01\Clase06\slnVentas\App.UI.Web.MVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Labs\lab01\Clase06\slnVentas\App.UI.Web.MVC\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Labs\lab01\Clase06\slnVentas\App.UI.Web.MVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Labs\lab01\Clase06\slnVentas\App.UI.Web.MVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Labs\lab01\Clase06\slnVentas\App.UI.Web.MVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Labs\lab01\Clase06\slnVentas\App.UI.Web.MVC\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Labs\lab01\Clase06\slnVentas\App.UI.Web.MVC\bin\roslyn\System.AppContext.dll
+C:\Labs\lab01\Clase06\slnVentas\App.UI.Web.MVC\bin\roslyn\System.Collections.Immutable.dll
+C:\Labs\lab01\Clase06\slnVentas\App.UI.Web.MVC\bin\roslyn\System.Console.dll
+C:\Labs\lab01\Clase06\slnVentas\App.UI.Web.MVC\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Labs\lab01\Clase06\slnVentas\App.UI.Web.MVC\bin\roslyn\System.Diagnostics.Process.dll
+C:\Labs\lab01\Clase06\slnVentas\App.UI.Web.MVC\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Labs\lab01\Clase06\slnVentas\App.UI.Web.MVC\bin\roslyn\System.IO.Compression.dll
+C:\Labs\lab01\Clase06\slnVentas\App.UI.Web.MVC\bin\roslyn\System.IO.FileSystem.dll
+C:\Labs\lab01\Clase06\slnVentas\App.UI.Web.MVC\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Labs\lab01\Clase06\slnVentas\App.UI.Web.MVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Labs\lab01\Clase06\slnVentas\App.UI.Web.MVC\bin\roslyn\System.IO.Pipes.dll
+C:\Labs\lab01\Clase06\slnVentas\App.UI.Web.MVC\bin\roslyn\System.Reflection.Metadata.dll
+C:\Labs\lab01\Clase06\slnVentas\App.UI.Web.MVC\bin\roslyn\System.Security.AccessControl.dll
+C:\Labs\lab01\Clase06\slnVentas\App.UI.Web.MVC\bin\roslyn\System.Security.Claims.dll
+C:\Labs\lab01\Clase06\slnVentas\App.UI.Web.MVC\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Labs\lab01\Clase06\slnVentas\App.UI.Web.MVC\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Labs\lab01\Clase06\slnVentas\App.UI.Web.MVC\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Labs\lab01\Clase06\slnVentas\App.UI.Web.MVC\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Labs\lab01\Clase06\slnVentas\App.UI.Web.MVC\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Labs\lab01\Clase06\slnVentas\App.UI.Web.MVC\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Labs\lab01\Clase06\slnVentas\App.UI.Web.MVC\bin\roslyn\System.Threading.Thread.dll
+C:\Labs\lab01\Clase06\slnVentas\App.UI.Web.MVC\bin\roslyn\System.ValueTuple.dll
+C:\Labs\lab01\Clase06\slnVentas\App.UI.Web.MVC\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Labs\lab01\Clase06\slnVentas\App.UI.Web.MVC\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Labs\lab01\Clase06\slnVentas\App.UI.Web.MVC\bin\roslyn\System.Xml.XPath.dll
+C:\Labs\lab01\Clase06\slnVentas\App.UI.Web.MVC\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Labs\lab01\Clase06\slnVentas\App.UI.Web.MVC\bin\roslyn\vbc.exe
+C:\Labs\lab01\Clase06\slnVentas\App.UI.Web.MVC\bin\roslyn\vbc.exe.config
+C:\Labs\lab01\Clase06\slnVentas\App.UI.Web.MVC\bin\roslyn\vbc.rsp
+C:\Labs\lab01\Clase06\slnVentas\App.UI.Web.MVC\bin\roslyn\VBCSCompiler.exe
+C:\Labs\lab01\Clase06\slnVentas\App.UI.Web.MVC\bin\roslyn\VBCSCompiler.exe.config
+C:\Labs\lab01\Clase06\slnVentas\App.UI.Web.MVC\bin\Antlr3.Runtime.dll
+C:\Labs\lab01\Clase06\slnVentas\App.UI.Web.MVC\bin\App.Domain.Services.dll
+C:\Labs\lab01\Clase06\slnVentas\App.UI.Web.MVC\bin\App.Domain.Services.Interfaces.dll
+C:\Labs\lab01\Clase06\slnVentas\App.UI.Web.MVC\bin\App.Entities.Base.dll
+C:\Labs\lab01\Clase06\slnVentas\App.UI.Web.MVC\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Labs\lab01\Clase06\slnVentas\App.UI.Web.MVC\bin\Microsoft.AI.DependencyCollector.dll
+C:\Labs\lab01\Clase06\slnVentas\App.UI.Web.MVC\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Labs\lab01\Clase06\slnVentas\App.UI.Web.MVC\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Labs\lab01\Clase06\slnVentas\App.UI.Web.MVC\bin\Microsoft.AI.Web.dll
+C:\Labs\lab01\Clase06\slnVentas\App.UI.Web.MVC\bin\Microsoft.AI.WindowsServer.dll
+C:\Labs\lab01\Clase06\slnVentas\App.UI.Web.MVC\bin\Microsoft.ApplicationInsights.dll
+C:\Labs\lab01\Clase06\slnVentas\App.UI.Web.MVC\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Labs\lab01\Clase06\slnVentas\App.UI.Web.MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Labs\lab01\Clase06\slnVentas\App.UI.Web.MVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Labs\lab01\Clase06\slnVentas\App.UI.Web.MVC\bin\Newtonsoft.Json.dll
+C:\Labs\lab01\Clase06\slnVentas\App.UI.Web.MVC\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Labs\lab01\Clase06\slnVentas\App.UI.Web.MVC\bin\System.Web.Helpers.dll
+C:\Labs\lab01\Clase06\slnVentas\App.UI.Web.MVC\bin\System.Web.Mvc.dll
+C:\Labs\lab01\Clase06\slnVentas\App.UI.Web.MVC\bin\System.Web.Optimization.dll
+C:\Labs\lab01\Clase06\slnVentas\App.UI.Web.MVC\bin\System.Web.Razor.dll
+C:\Labs\lab01\Clase06\slnVentas\App.UI.Web.MVC\bin\System.Web.WebPages.Deployment.dll
+C:\Labs\lab01\Clase06\slnVentas\App.UI.Web.MVC\bin\System.Web.WebPages.dll
+C:\Labs\lab01\Clase06\slnVentas\App.UI.Web.MVC\bin\System.Web.WebPages.Razor.dll
+C:\Labs\lab01\Clase06\slnVentas\App.UI.Web.MVC\bin\WebGrease.dll
+C:\Labs\lab01\Clase06\slnVentas\App.UI.Web.MVC\bin\App.Data.Repository.dll
+C:\Labs\lab01\Clase06\slnVentas\App.UI.Web.MVC\bin\App.Data.Repository.Interfaces.dll
+C:\Labs\lab01\Clase06\slnVentas\App.UI.Web.MVC\bin\EntityFramework.dll
+C:\Labs\lab01\Clase06\slnVentas\App.UI.Web.MVC\bin\App.Data.DataBase.dll
+C:\Labs\lab01\Clase06\slnVentas\App.UI.Web.MVC\bin\App.Domain.Services.Interfaces.pdb
+C:\Labs\lab01\Clase06\slnVentas\App.UI.Web.MVC\bin\App.Domain.Services.pdb
+C:\Labs\lab01\Clase06\slnVentas\App.UI.Web.MVC\bin\App.Entities.Base.pdb
+C:\Labs\lab01\Clase06\slnVentas\App.UI.Web.MVC\bin\System.Web.Helpers.xml
+C:\Labs\lab01\Clase06\slnVentas\App.UI.Web.MVC\bin\System.Web.Mvc.xml
+C:\Labs\lab01\Clase06\slnVentas\App.UI.Web.MVC\bin\System.Web.Optimization.xml
+C:\Labs\lab01\Clase06\slnVentas\App.UI.Web.MVC\bin\System.Web.Razor.xml
+C:\Labs\lab01\Clase06\slnVentas\App.UI.Web.MVC\bin\System.Web.WebPages.xml
+C:\Labs\lab01\Clase06\slnVentas\App.UI.Web.MVC\bin\System.Web.WebPages.Deployment.xml
+C:\Labs\lab01\Clase06\slnVentas\App.UI.Web.MVC\bin\System.Web.WebPages.Razor.xml
+C:\Labs\lab01\Clase06\slnVentas\App.UI.Web.MVC\bin\Newtonsoft.Json.xml
+C:\Labs\lab01\Clase06\slnVentas\App.UI.Web.MVC\bin\Antlr3.Runtime.pdb
+C:\Labs\lab01\Clase06\slnVentas\App.UI.Web.MVC\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Labs\lab01\Clase06\slnVentas\App.UI.Web.MVC\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Labs\lab01\Clase06\slnVentas\App.UI.Web.MVC\bin\Microsoft.AI.DependencyCollector.xml
+C:\Labs\lab01\Clase06\slnVentas\App.UI.Web.MVC\bin\Microsoft.AI.WindowsServer.xml
+C:\Labs\lab01\Clase06\slnVentas\App.UI.Web.MVC\bin\Microsoft.AI.Web.xml
+C:\Labs\lab01\Clase06\slnVentas\App.UI.Web.MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Labs\lab01\Clase06\slnVentas\App.UI.Web.MVC\bin\App.Data.Repository.pdb
+C:\Labs\lab01\Clase06\slnVentas\App.UI.Web.MVC\bin\App.Data.Repository.dll.config
+C:\Labs\lab01\Clase06\slnVentas\App.UI.Web.MVC\bin\App.Data.Repository.Interfaces.pdb
+C:\Labs\lab01\Clase06\slnVentas\App.UI.Web.MVC\bin\EntityFramework.xml
+C:\Labs\lab01\Clase06\slnVentas\App.UI.Web.MVC\bin\App.Data.DataBase.pdb
+C:\Labs\lab01\Clase06\slnVentas\App.UI.Web.MVC\bin\App.Data.DataBase.dll.config
+C:\Labs\lab01\Clase06\slnVentas\App.UI.Web.MVC\bin\es\System.Web.Helpers.resources.dll
+C:\Labs\lab01\Clase06\slnVentas\App.UI.Web.MVC\bin\es\System.Web.Mvc.resources.dll
+C:\Labs\lab01\Clase06\slnVentas\App.UI.Web.MVC\bin\es\System.Web.Optimization.resources.dll
+C:\Labs\lab01\Clase06\slnVentas\App.UI.Web.MVC\bin\es\System.Web.Razor.resources.dll
+C:\Labs\lab01\Clase06\slnVentas\App.UI.Web.MVC\bin\es\System.Web.WebPages.resources.dll
+C:\Labs\lab01\Clase06\slnVentas\App.UI.Web.MVC\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Labs\lab01\Clase06\slnVentas\App.UI.Web.MVC\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Labs\lab01\Clase06\slnVentas\App.UI.Web.MVC\obj\Debug\App.UI.Web.MVC.csprojAssemblyReference.cache
+C:\Labs\lab01\Clase06\slnVentas\App.UI.Web.MVC\obj\Debug\App.UI.Web.MVC.csproj.CoreCompileInputs.cache
+C:\Labs\lab01\Clase06\slnVentas\App.UI.Web.MVC\obj\Debug\App.UI.Web.MVC.csproj.CopyComplete
+C:\Labs\lab01\Clase06\slnVentas\App.UI.Web.MVC\obj\Debug\App.UI.Web.MVC.dll
+C:\Labs\lab01\Clase06\slnVentas\App.UI.Web.MVC\obj\Debug\App.UI.Web.MVC.pdb
+C:\Labs\lab01\Clase06\slnVentas\App.UI.Web.MVC\bin\EntityFramework.SqlServer.dll
+C:\Labs\lab01\Clase06\slnVentas\App.UI.Web.MVC\bin\EntityFramework.SqlServer.xml
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase06\slnVentas\App.UI.Web.MVC\bin\ApplicationInsights.config
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase06\slnVentas\App.UI.Web.MVC\bin\App.UI.Web.MVC.dll.config
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase06\slnVentas\App.UI.Web.MVC\bin\App.UI.Web.MVC.dll
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase06\slnVentas\App.UI.Web.MVC\bin\App.UI.Web.MVC.pdb
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase06\slnVentas\App.UI.Web.MVC\bin\roslyn\csc.exe
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase06\slnVentas\App.UI.Web.MVC\bin\roslyn\csc.exe.config
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase06\slnVentas\App.UI.Web.MVC\bin\roslyn\csc.rsp
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase06\slnVentas\App.UI.Web.MVC\bin\roslyn\csi.exe
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase06\slnVentas\App.UI.Web.MVC\bin\roslyn\csi.exe.config
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase06\slnVentas\App.UI.Web.MVC\bin\roslyn\csi.rsp
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase06\slnVentas\App.UI.Web.MVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase06\slnVentas\App.UI.Web.MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase06\slnVentas\App.UI.Web.MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase06\slnVentas\App.UI.Web.MVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase06\slnVentas\App.UI.Web.MVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase06\slnVentas\App.UI.Web.MVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase06\slnVentas\App.UI.Web.MVC\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase06\slnVentas\App.UI.Web.MVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase06\slnVentas\App.UI.Web.MVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase06\slnVentas\App.UI.Web.MVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase06\slnVentas\App.UI.Web.MVC\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase06\slnVentas\App.UI.Web.MVC\bin\roslyn\System.AppContext.dll
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase06\slnVentas\App.UI.Web.MVC\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase06\slnVentas\App.UI.Web.MVC\bin\roslyn\System.Console.dll
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase06\slnVentas\App.UI.Web.MVC\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase06\slnVentas\App.UI.Web.MVC\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase06\slnVentas\App.UI.Web.MVC\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase06\slnVentas\App.UI.Web.MVC\bin\roslyn\System.IO.Compression.dll
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase06\slnVentas\App.UI.Web.MVC\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase06\slnVentas\App.UI.Web.MVC\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase06\slnVentas\App.UI.Web.MVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase06\slnVentas\App.UI.Web.MVC\bin\roslyn\System.IO.Pipes.dll
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase06\slnVentas\App.UI.Web.MVC\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase06\slnVentas\App.UI.Web.MVC\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase06\slnVentas\App.UI.Web.MVC\bin\roslyn\System.Security.Claims.dll
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase06\slnVentas\App.UI.Web.MVC\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase06\slnVentas\App.UI.Web.MVC\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase06\slnVentas\App.UI.Web.MVC\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase06\slnVentas\App.UI.Web.MVC\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase06\slnVentas\App.UI.Web.MVC\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase06\slnVentas\App.UI.Web.MVC\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase06\slnVentas\App.UI.Web.MVC\bin\roslyn\System.Threading.Thread.dll
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase06\slnVentas\App.UI.Web.MVC\bin\roslyn\System.ValueTuple.dll
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase06\slnVentas\App.UI.Web.MVC\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase06\slnVentas\App.UI.Web.MVC\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase06\slnVentas\App.UI.Web.MVC\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase06\slnVentas\App.UI.Web.MVC\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase06\slnVentas\App.UI.Web.MVC\bin\roslyn\vbc.exe
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase06\slnVentas\App.UI.Web.MVC\bin\roslyn\vbc.exe.config
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase06\slnVentas\App.UI.Web.MVC\bin\roslyn\vbc.rsp
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase06\slnVentas\App.UI.Web.MVC\bin\roslyn\VBCSCompiler.exe
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase06\slnVentas\App.UI.Web.MVC\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase06\slnVentas\App.UI.Web.MVC\bin\Antlr3.Runtime.dll
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase06\slnVentas\App.UI.Web.MVC\bin\App.Domain.Services.dll
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase06\slnVentas\App.UI.Web.MVC\bin\App.Domain.Services.Interfaces.dll
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase06\slnVentas\App.UI.Web.MVC\bin\App.Entities.Base.dll
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase06\slnVentas\App.UI.Web.MVC\bin\EntityFramework.dll
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase06\slnVentas\App.UI.Web.MVC\bin\EntityFramework.SqlServer.dll
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase06\slnVentas\App.UI.Web.MVC\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase06\slnVentas\App.UI.Web.MVC\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase06\slnVentas\App.UI.Web.MVC\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase06\slnVentas\App.UI.Web.MVC\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase06\slnVentas\App.UI.Web.MVC\bin\Microsoft.AI.Web.dll
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase06\slnVentas\App.UI.Web.MVC\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase06\slnVentas\App.UI.Web.MVC\bin\Microsoft.ApplicationInsights.dll
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase06\slnVentas\App.UI.Web.MVC\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase06\slnVentas\App.UI.Web.MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase06\slnVentas\App.UI.Web.MVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase06\slnVentas\App.UI.Web.MVC\bin\Newtonsoft.Json.dll
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase06\slnVentas\App.UI.Web.MVC\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase06\slnVentas\App.UI.Web.MVC\bin\System.Web.Helpers.dll
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase06\slnVentas\App.UI.Web.MVC\bin\System.Web.Mvc.dll
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase06\slnVentas\App.UI.Web.MVC\bin\System.Web.Optimization.dll
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase06\slnVentas\App.UI.Web.MVC\bin\System.Web.Razor.dll
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase06\slnVentas\App.UI.Web.MVC\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase06\slnVentas\App.UI.Web.MVC\bin\System.Web.WebPages.dll
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase06\slnVentas\App.UI.Web.MVC\bin\System.Web.WebPages.Razor.dll
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase06\slnVentas\App.UI.Web.MVC\bin\WebGrease.dll
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase06\slnVentas\App.UI.Web.MVC\bin\App.Data.Repository.dll
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase06\slnVentas\App.UI.Web.MVC\bin\App.Data.Repository.Interfaces.dll
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase06\slnVentas\App.UI.Web.MVC\bin\App.Data.DataBase.dll
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase06\slnVentas\App.UI.Web.MVC\bin\App.Domain.Services.Interfaces.pdb
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase06\slnVentas\App.UI.Web.MVC\bin\App.Domain.Services.pdb
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase06\slnVentas\App.UI.Web.MVC\bin\App.Entities.Base.pdb
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase06\slnVentas\App.UI.Web.MVC\bin\EntityFramework.xml
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase06\slnVentas\App.UI.Web.MVC\bin\EntityFramework.SqlServer.xml
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase06\slnVentas\App.UI.Web.MVC\bin\System.Web.Helpers.xml
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase06\slnVentas\App.UI.Web.MVC\bin\System.Web.Mvc.xml
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase06\slnVentas\App.UI.Web.MVC\bin\System.Web.Optimization.xml
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase06\slnVentas\App.UI.Web.MVC\bin\System.Web.Razor.xml
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase06\slnVentas\App.UI.Web.MVC\bin\System.Web.WebPages.xml
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase06\slnVentas\App.UI.Web.MVC\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase06\slnVentas\App.UI.Web.MVC\bin\System.Web.WebPages.Razor.xml
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase06\slnVentas\App.UI.Web.MVC\bin\Newtonsoft.Json.xml
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase06\slnVentas\App.UI.Web.MVC\bin\Antlr3.Runtime.pdb
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase06\slnVentas\App.UI.Web.MVC\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase06\slnVentas\App.UI.Web.MVC\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase06\slnVentas\App.UI.Web.MVC\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase06\slnVentas\App.UI.Web.MVC\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase06\slnVentas\App.UI.Web.MVC\bin\Microsoft.AI.Web.xml
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase06\slnVentas\App.UI.Web.MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase06\slnVentas\App.UI.Web.MVC\bin\App.Data.Repository.pdb
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase06\slnVentas\App.UI.Web.MVC\bin\App.Data.Repository.dll.config
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase06\slnVentas\App.UI.Web.MVC\bin\App.Data.Repository.Interfaces.pdb
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase06\slnVentas\App.UI.Web.MVC\bin\App.Data.DataBase.pdb
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase06\slnVentas\App.UI.Web.MVC\bin\App.Data.DataBase.dll.config
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase06\slnVentas\App.UI.Web.MVC\bin\es\System.Web.Helpers.resources.dll
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase06\slnVentas\App.UI.Web.MVC\bin\es\System.Web.Mvc.resources.dll
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase06\slnVentas\App.UI.Web.MVC\bin\es\System.Web.Optimization.resources.dll
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase06\slnVentas\App.UI.Web.MVC\bin\es\System.Web.Razor.resources.dll
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase06\slnVentas\App.UI.Web.MVC\bin\es\System.Web.WebPages.resources.dll
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase06\slnVentas\App.UI.Web.MVC\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase06\slnVentas\App.UI.Web.MVC\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase06\slnVentas\App.UI.Web.MVC\obj\Debug\App.UI.Web.MVC.csprojAssemblyReference.cache
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase06\slnVentas\App.UI.Web.MVC\obj\Debug\App.UI.Web.MVC.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase06\slnVentas\App.UI.Web.MVC\obj\Debug\App.UI.Web.MVC.csproj.CopyComplete
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase06\slnVentas\App.UI.Web.MVC\obj\Debug\App.UI.Web.MVC.dll
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase06\slnVentas\App.UI.Web.MVC\obj\Debug\App.UI.Web.MVC.pdb
+C:\Labs\lab01\Clase07\slnVentas\App.UI.Web.MVC\bin\ApplicationInsights.config
+C:\Labs\lab01\Clase07\slnVentas\App.UI.Web.MVC\bin\App.UI.Web.MVC.dll.config
+C:\Labs\lab01\Clase07\slnVentas\App.UI.Web.MVC\bin\App.UI.Web.MVC.dll
+C:\Labs\lab01\Clase07\slnVentas\App.UI.Web.MVC\bin\App.UI.Web.MVC.pdb
+C:\Labs\lab01\Clase07\slnVentas\App.UI.Web.MVC\bin\roslyn\csc.exe
+C:\Labs\lab01\Clase07\slnVentas\App.UI.Web.MVC\bin\roslyn\csc.exe.config
+C:\Labs\lab01\Clase07\slnVentas\App.UI.Web.MVC\bin\roslyn\csc.rsp
+C:\Labs\lab01\Clase07\slnVentas\App.UI.Web.MVC\bin\roslyn\csi.exe
+C:\Labs\lab01\Clase07\slnVentas\App.UI.Web.MVC\bin\roslyn\csi.exe.config
+C:\Labs\lab01\Clase07\slnVentas\App.UI.Web.MVC\bin\roslyn\csi.rsp
+C:\Labs\lab01\Clase07\slnVentas\App.UI.Web.MVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Labs\lab01\Clase07\slnVentas\App.UI.Web.MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Labs\lab01\Clase07\slnVentas\App.UI.Web.MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Labs\lab01\Clase07\slnVentas\App.UI.Web.MVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Labs\lab01\Clase07\slnVentas\App.UI.Web.MVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Labs\lab01\Clase07\slnVentas\App.UI.Web.MVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Labs\lab01\Clase07\slnVentas\App.UI.Web.MVC\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Labs\lab01\Clase07\slnVentas\App.UI.Web.MVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Labs\lab01\Clase07\slnVentas\App.UI.Web.MVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Labs\lab01\Clase07\slnVentas\App.UI.Web.MVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Labs\lab01\Clase07\slnVentas\App.UI.Web.MVC\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Labs\lab01\Clase07\slnVentas\App.UI.Web.MVC\bin\roslyn\System.AppContext.dll
+C:\Labs\lab01\Clase07\slnVentas\App.UI.Web.MVC\bin\roslyn\System.Collections.Immutable.dll
+C:\Labs\lab01\Clase07\slnVentas\App.UI.Web.MVC\bin\roslyn\System.Console.dll
+C:\Labs\lab01\Clase07\slnVentas\App.UI.Web.MVC\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Labs\lab01\Clase07\slnVentas\App.UI.Web.MVC\bin\roslyn\System.Diagnostics.Process.dll
+C:\Labs\lab01\Clase07\slnVentas\App.UI.Web.MVC\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Labs\lab01\Clase07\slnVentas\App.UI.Web.MVC\bin\roslyn\System.IO.Compression.dll
+C:\Labs\lab01\Clase07\slnVentas\App.UI.Web.MVC\bin\roslyn\System.IO.FileSystem.dll
+C:\Labs\lab01\Clase07\slnVentas\App.UI.Web.MVC\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Labs\lab01\Clase07\slnVentas\App.UI.Web.MVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Labs\lab01\Clase07\slnVentas\App.UI.Web.MVC\bin\roslyn\System.IO.Pipes.dll
+C:\Labs\lab01\Clase07\slnVentas\App.UI.Web.MVC\bin\roslyn\System.Reflection.Metadata.dll
+C:\Labs\lab01\Clase07\slnVentas\App.UI.Web.MVC\bin\roslyn\System.Security.AccessControl.dll
+C:\Labs\lab01\Clase07\slnVentas\App.UI.Web.MVC\bin\roslyn\System.Security.Claims.dll
+C:\Labs\lab01\Clase07\slnVentas\App.UI.Web.MVC\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Labs\lab01\Clase07\slnVentas\App.UI.Web.MVC\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Labs\lab01\Clase07\slnVentas\App.UI.Web.MVC\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Labs\lab01\Clase07\slnVentas\App.UI.Web.MVC\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Labs\lab01\Clase07\slnVentas\App.UI.Web.MVC\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Labs\lab01\Clase07\slnVentas\App.UI.Web.MVC\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Labs\lab01\Clase07\slnVentas\App.UI.Web.MVC\bin\roslyn\System.Threading.Thread.dll
+C:\Labs\lab01\Clase07\slnVentas\App.UI.Web.MVC\bin\roslyn\System.ValueTuple.dll
+C:\Labs\lab01\Clase07\slnVentas\App.UI.Web.MVC\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Labs\lab01\Clase07\slnVentas\App.UI.Web.MVC\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Labs\lab01\Clase07\slnVentas\App.UI.Web.MVC\bin\roslyn\System.Xml.XPath.dll
+C:\Labs\lab01\Clase07\slnVentas\App.UI.Web.MVC\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Labs\lab01\Clase07\slnVentas\App.UI.Web.MVC\bin\roslyn\vbc.exe
+C:\Labs\lab01\Clase07\slnVentas\App.UI.Web.MVC\bin\roslyn\vbc.exe.config
+C:\Labs\lab01\Clase07\slnVentas\App.UI.Web.MVC\bin\roslyn\vbc.rsp
+C:\Labs\lab01\Clase07\slnVentas\App.UI.Web.MVC\bin\roslyn\VBCSCompiler.exe
+C:\Labs\lab01\Clase07\slnVentas\App.UI.Web.MVC\bin\roslyn\VBCSCompiler.exe.config
+C:\Labs\lab01\Clase07\slnVentas\App.UI.Web.MVC\bin\Antlr3.Runtime.dll
+C:\Labs\lab01\Clase07\slnVentas\App.UI.Web.MVC\bin\App.Domain.Services.dll
+C:\Labs\lab01\Clase07\slnVentas\App.UI.Web.MVC\bin\App.Domain.Services.Interfaces.dll
+C:\Labs\lab01\Clase07\slnVentas\App.UI.Web.MVC\bin\App.Entities.Base.dll
+C:\Labs\lab01\Clase07\slnVentas\App.UI.Web.MVC\bin\EntityFramework.dll
+C:\Labs\lab01\Clase07\slnVentas\App.UI.Web.MVC\bin\EntityFramework.SqlServer.dll
+C:\Labs\lab01\Clase07\slnVentas\App.UI.Web.MVC\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Labs\lab01\Clase07\slnVentas\App.UI.Web.MVC\bin\Microsoft.AI.DependencyCollector.dll
+C:\Labs\lab01\Clase07\slnVentas\App.UI.Web.MVC\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Labs\lab01\Clase07\slnVentas\App.UI.Web.MVC\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Labs\lab01\Clase07\slnVentas\App.UI.Web.MVC\bin\Microsoft.AI.Web.dll
+C:\Labs\lab01\Clase07\slnVentas\App.UI.Web.MVC\bin\Microsoft.AI.WindowsServer.dll
+C:\Labs\lab01\Clase07\slnVentas\App.UI.Web.MVC\bin\Microsoft.ApplicationInsights.dll
+C:\Labs\lab01\Clase07\slnVentas\App.UI.Web.MVC\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Labs\lab01\Clase07\slnVentas\App.UI.Web.MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Labs\lab01\Clase07\slnVentas\App.UI.Web.MVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Labs\lab01\Clase07\slnVentas\App.UI.Web.MVC\bin\Newtonsoft.Json.dll
+C:\Labs\lab01\Clase07\slnVentas\App.UI.Web.MVC\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Labs\lab01\Clase07\slnVentas\App.UI.Web.MVC\bin\System.Web.Helpers.dll
+C:\Labs\lab01\Clase07\slnVentas\App.UI.Web.MVC\bin\System.Web.Mvc.dll
+C:\Labs\lab01\Clase07\slnVentas\App.UI.Web.MVC\bin\System.Web.Optimization.dll
+C:\Labs\lab01\Clase07\slnVentas\App.UI.Web.MVC\bin\System.Web.Razor.dll
+C:\Labs\lab01\Clase07\slnVentas\App.UI.Web.MVC\bin\System.Web.WebPages.Deployment.dll
+C:\Labs\lab01\Clase07\slnVentas\App.UI.Web.MVC\bin\System.Web.WebPages.dll
+C:\Labs\lab01\Clase07\slnVentas\App.UI.Web.MVC\bin\System.Web.WebPages.Razor.dll
+C:\Labs\lab01\Clase07\slnVentas\App.UI.Web.MVC\bin\WebGrease.dll
+C:\Labs\lab01\Clase07\slnVentas\App.UI.Web.MVC\bin\App.Data.Repository.dll
+C:\Labs\lab01\Clase07\slnVentas\App.UI.Web.MVC\bin\App.Data.Repository.Interfaces.dll
+C:\Labs\lab01\Clase07\slnVentas\App.UI.Web.MVC\bin\App.Data.DataBase.dll
+C:\Labs\lab01\Clase07\slnVentas\App.UI.Web.MVC\bin\App.Domain.Services.Interfaces.pdb
+C:\Labs\lab01\Clase07\slnVentas\App.UI.Web.MVC\bin\App.Domain.Services.pdb
+C:\Labs\lab01\Clase07\slnVentas\App.UI.Web.MVC\bin\App.Entities.Base.pdb
+C:\Labs\lab01\Clase07\slnVentas\App.UI.Web.MVC\bin\EntityFramework.xml
+C:\Labs\lab01\Clase07\slnVentas\App.UI.Web.MVC\bin\EntityFramework.SqlServer.xml
+C:\Labs\lab01\Clase07\slnVentas\App.UI.Web.MVC\bin\System.Web.Helpers.xml
+C:\Labs\lab01\Clase07\slnVentas\App.UI.Web.MVC\bin\System.Web.Mvc.xml
+C:\Labs\lab01\Clase07\slnVentas\App.UI.Web.MVC\bin\System.Web.Optimization.xml
+C:\Labs\lab01\Clase07\slnVentas\App.UI.Web.MVC\bin\System.Web.Razor.xml
+C:\Labs\lab01\Clase07\slnVentas\App.UI.Web.MVC\bin\System.Web.WebPages.xml
+C:\Labs\lab01\Clase07\slnVentas\App.UI.Web.MVC\bin\System.Web.WebPages.Deployment.xml
+C:\Labs\lab01\Clase07\slnVentas\App.UI.Web.MVC\bin\System.Web.WebPages.Razor.xml
+C:\Labs\lab01\Clase07\slnVentas\App.UI.Web.MVC\bin\Newtonsoft.Json.xml
+C:\Labs\lab01\Clase07\slnVentas\App.UI.Web.MVC\bin\Antlr3.Runtime.pdb
+C:\Labs\lab01\Clase07\slnVentas\App.UI.Web.MVC\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Labs\lab01\Clase07\slnVentas\App.UI.Web.MVC\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Labs\lab01\Clase07\slnVentas\App.UI.Web.MVC\bin\Microsoft.AI.DependencyCollector.xml
+C:\Labs\lab01\Clase07\slnVentas\App.UI.Web.MVC\bin\Microsoft.AI.WindowsServer.xml
+C:\Labs\lab01\Clase07\slnVentas\App.UI.Web.MVC\bin\Microsoft.AI.Web.xml
+C:\Labs\lab01\Clase07\slnVentas\App.UI.Web.MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Labs\lab01\Clase07\slnVentas\App.UI.Web.MVC\bin\App.Data.Repository.pdb
+C:\Labs\lab01\Clase07\slnVentas\App.UI.Web.MVC\bin\App.Data.Repository.dll.config
+C:\Labs\lab01\Clase07\slnVentas\App.UI.Web.MVC\bin\App.Data.Repository.Interfaces.pdb
+C:\Labs\lab01\Clase07\slnVentas\App.UI.Web.MVC\bin\App.Data.DataBase.pdb
+C:\Labs\lab01\Clase07\slnVentas\App.UI.Web.MVC\bin\App.Data.DataBase.dll.config
+C:\Labs\lab01\Clase07\slnVentas\App.UI.Web.MVC\bin\es\System.Web.Helpers.resources.dll
+C:\Labs\lab01\Clase07\slnVentas\App.UI.Web.MVC\bin\es\System.Web.Mvc.resources.dll
+C:\Labs\lab01\Clase07\slnVentas\App.UI.Web.MVC\bin\es\System.Web.Optimization.resources.dll
+C:\Labs\lab01\Clase07\slnVentas\App.UI.Web.MVC\bin\es\System.Web.Razor.resources.dll
+C:\Labs\lab01\Clase07\slnVentas\App.UI.Web.MVC\bin\es\System.Web.WebPages.resources.dll
+C:\Labs\lab01\Clase07\slnVentas\App.UI.Web.MVC\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Labs\lab01\Clase07\slnVentas\App.UI.Web.MVC\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Labs\lab01\Clase07\slnVentas\App.UI.Web.MVC\obj\Debug\App.UI.Web.MVC.csprojAssemblyReference.cache
+C:\Labs\lab01\Clase07\slnVentas\App.UI.Web.MVC\obj\Debug\App.UI.Web.MVC.csproj.CoreCompileInputs.cache
+C:\Labs\lab01\Clase07\slnVentas\App.UI.Web.MVC\obj\Debug\App.UI.Web.MVC.csproj.CopyComplete
+C:\Labs\lab01\Clase07\slnVentas\App.UI.Web.MVC\obj\Debug\App.UI.Web.MVC.dll
+C:\Labs\lab01\Clase07\slnVentas\App.UI.Web.MVC\obj\Debug\App.UI.Web.MVC.pdb
+C:\Labs\lab01\Clase07\slnVentas\App.UI.Web.MVC\bin\log4net.dll
+C:\Labs\lab01\Clase07\slnVentas\App.UI.Web.MVC\bin\log4net.xml
+C:\Labs\lab01\Clase07\slnVentas\App.UI.Web.MVC\bin\SimpleInjector.dll
+C:\Labs\lab01\Clase07\slnVentas\App.UI.Web.MVC\bin\SimpleInjector.Integration.Web.dll
+C:\Labs\lab01\Clase07\slnVentas\App.UI.Web.MVC\bin\SimpleInjector.Integration.Web.Mvc.dll
+C:\Labs\lab01\Clase07\slnVentas\App.UI.Web.MVC\bin\SimpleInjector.xml
+C:\Labs\lab01\Clase07\slnVentas\App.UI.Web.MVC\bin\SimpleInjector.Integration.Web.xml
+C:\Labs\lab01\Clase07\slnVentas\App.UI.Web.MVC\bin\SimpleInjector.Integration.Web.Mvc.xml
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase07\slnVentas\App.UI.Web.MVC\bin\ApplicationInsights.config
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase07\slnVentas\App.UI.Web.MVC\bin\App.UI.Web.MVC.dll.config
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase07\slnVentas\App.UI.Web.MVC\bin\App.UI.Web.MVC.dll
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase07\slnVentas\App.UI.Web.MVC\bin\App.UI.Web.MVC.pdb
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase07\slnVentas\App.UI.Web.MVC\bin\roslyn\csc.exe
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase07\slnVentas\App.UI.Web.MVC\bin\roslyn\csc.exe.config
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase07\slnVentas\App.UI.Web.MVC\bin\roslyn\csc.rsp
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase07\slnVentas\App.UI.Web.MVC\bin\roslyn\csi.exe
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase07\slnVentas\App.UI.Web.MVC\bin\roslyn\csi.exe.config
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase07\slnVentas\App.UI.Web.MVC\bin\roslyn\csi.rsp
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase07\slnVentas\App.UI.Web.MVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase07\slnVentas\App.UI.Web.MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase07\slnVentas\App.UI.Web.MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase07\slnVentas\App.UI.Web.MVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase07\slnVentas\App.UI.Web.MVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase07\slnVentas\App.UI.Web.MVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase07\slnVentas\App.UI.Web.MVC\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase07\slnVentas\App.UI.Web.MVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase07\slnVentas\App.UI.Web.MVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase07\slnVentas\App.UI.Web.MVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase07\slnVentas\App.UI.Web.MVC\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase07\slnVentas\App.UI.Web.MVC\bin\roslyn\System.AppContext.dll
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase07\slnVentas\App.UI.Web.MVC\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase07\slnVentas\App.UI.Web.MVC\bin\roslyn\System.Console.dll
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase07\slnVentas\App.UI.Web.MVC\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase07\slnVentas\App.UI.Web.MVC\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase07\slnVentas\App.UI.Web.MVC\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase07\slnVentas\App.UI.Web.MVC\bin\roslyn\System.IO.Compression.dll
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase07\slnVentas\App.UI.Web.MVC\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase07\slnVentas\App.UI.Web.MVC\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase07\slnVentas\App.UI.Web.MVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase07\slnVentas\App.UI.Web.MVC\bin\roslyn\System.IO.Pipes.dll
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase07\slnVentas\App.UI.Web.MVC\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase07\slnVentas\App.UI.Web.MVC\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase07\slnVentas\App.UI.Web.MVC\bin\roslyn\System.Security.Claims.dll
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase07\slnVentas\App.UI.Web.MVC\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase07\slnVentas\App.UI.Web.MVC\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase07\slnVentas\App.UI.Web.MVC\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase07\slnVentas\App.UI.Web.MVC\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase07\slnVentas\App.UI.Web.MVC\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase07\slnVentas\App.UI.Web.MVC\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase07\slnVentas\App.UI.Web.MVC\bin\roslyn\System.Threading.Thread.dll
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase07\slnVentas\App.UI.Web.MVC\bin\roslyn\System.ValueTuple.dll
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase07\slnVentas\App.UI.Web.MVC\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase07\slnVentas\App.UI.Web.MVC\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase07\slnVentas\App.UI.Web.MVC\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase07\slnVentas\App.UI.Web.MVC\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase07\slnVentas\App.UI.Web.MVC\bin\roslyn\vbc.exe
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase07\slnVentas\App.UI.Web.MVC\bin\roslyn\vbc.exe.config
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase07\slnVentas\App.UI.Web.MVC\bin\roslyn\vbc.rsp
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase07\slnVentas\App.UI.Web.MVC\bin\roslyn\VBCSCompiler.exe
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase07\slnVentas\App.UI.Web.MVC\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase07\slnVentas\App.UI.Web.MVC\bin\Antlr3.Runtime.dll
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase07\slnVentas\App.UI.Web.MVC\bin\App.Domain.Services.dll
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase07\slnVentas\App.UI.Web.MVC\bin\App.Domain.Services.Interfaces.dll
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase07\slnVentas\App.UI.Web.MVC\bin\App.Entities.Base.dll
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase07\slnVentas\App.UI.Web.MVC\bin\EntityFramework.dll
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase07\slnVentas\App.UI.Web.MVC\bin\EntityFramework.SqlServer.dll
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase07\slnVentas\App.UI.Web.MVC\bin\log4net.dll
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase07\slnVentas\App.UI.Web.MVC\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase07\slnVentas\App.UI.Web.MVC\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase07\slnVentas\App.UI.Web.MVC\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase07\slnVentas\App.UI.Web.MVC\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase07\slnVentas\App.UI.Web.MVC\bin\Microsoft.AI.Web.dll
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase07\slnVentas\App.UI.Web.MVC\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase07\slnVentas\App.UI.Web.MVC\bin\Microsoft.ApplicationInsights.dll
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase07\slnVentas\App.UI.Web.MVC\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase07\slnVentas\App.UI.Web.MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase07\slnVentas\App.UI.Web.MVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase07\slnVentas\App.UI.Web.MVC\bin\Newtonsoft.Json.dll
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase07\slnVentas\App.UI.Web.MVC\bin\SimpleInjector.dll
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase07\slnVentas\App.UI.Web.MVC\bin\SimpleInjector.Integration.Web.dll
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase07\slnVentas\App.UI.Web.MVC\bin\SimpleInjector.Integration.Web.Mvc.dll
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase07\slnVentas\App.UI.Web.MVC\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase07\slnVentas\App.UI.Web.MVC\bin\System.Web.Helpers.dll
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase07\slnVentas\App.UI.Web.MVC\bin\System.Web.Mvc.dll
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase07\slnVentas\App.UI.Web.MVC\bin\System.Web.Optimization.dll
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase07\slnVentas\App.UI.Web.MVC\bin\System.Web.Razor.dll
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase07\slnVentas\App.UI.Web.MVC\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase07\slnVentas\App.UI.Web.MVC\bin\System.Web.WebPages.dll
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase07\slnVentas\App.UI.Web.MVC\bin\System.Web.WebPages.Razor.dll
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase07\slnVentas\App.UI.Web.MVC\bin\WebGrease.dll
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase07\slnVentas\App.UI.Web.MVC\bin\App.Data.Repository.dll
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase07\slnVentas\App.UI.Web.MVC\bin\App.Data.Repository.Interfaces.dll
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase07\slnVentas\App.UI.Web.MVC\bin\App.Data.DataBase.dll
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase07\slnVentas\App.UI.Web.MVC\bin\App.Domain.Services.Interfaces.pdb
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase07\slnVentas\App.UI.Web.MVC\bin\App.Domain.Services.pdb
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase07\slnVentas\App.UI.Web.MVC\bin\App.Entities.Base.pdb
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase07\slnVentas\App.UI.Web.MVC\bin\EntityFramework.xml
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase07\slnVentas\App.UI.Web.MVC\bin\EntityFramework.SqlServer.xml
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase07\slnVentas\App.UI.Web.MVC\bin\log4net.xml
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase07\slnVentas\App.UI.Web.MVC\bin\SimpleInjector.xml
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase07\slnVentas\App.UI.Web.MVC\bin\SimpleInjector.Integration.Web.xml
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase07\slnVentas\App.UI.Web.MVC\bin\SimpleInjector.Integration.Web.Mvc.xml
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase07\slnVentas\App.UI.Web.MVC\bin\System.Web.Helpers.xml
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase07\slnVentas\App.UI.Web.MVC\bin\System.Web.Mvc.xml
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase07\slnVentas\App.UI.Web.MVC\bin\System.Web.Optimization.xml
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase07\slnVentas\App.UI.Web.MVC\bin\System.Web.Razor.xml
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase07\slnVentas\App.UI.Web.MVC\bin\System.Web.WebPages.xml
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase07\slnVentas\App.UI.Web.MVC\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase07\slnVentas\App.UI.Web.MVC\bin\System.Web.WebPages.Razor.xml
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase07\slnVentas\App.UI.Web.MVC\bin\Newtonsoft.Json.xml
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase07\slnVentas\App.UI.Web.MVC\bin\Antlr3.Runtime.pdb
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase07\slnVentas\App.UI.Web.MVC\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase07\slnVentas\App.UI.Web.MVC\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase07\slnVentas\App.UI.Web.MVC\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase07\slnVentas\App.UI.Web.MVC\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase07\slnVentas\App.UI.Web.MVC\bin\Microsoft.AI.Web.xml
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase07\slnVentas\App.UI.Web.MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase07\slnVentas\App.UI.Web.MVC\bin\App.Data.Repository.pdb
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase07\slnVentas\App.UI.Web.MVC\bin\App.Data.Repository.dll.config
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase07\slnVentas\App.UI.Web.MVC\bin\App.Data.Repository.Interfaces.pdb
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase07\slnVentas\App.UI.Web.MVC\bin\App.Data.DataBase.pdb
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase07\slnVentas\App.UI.Web.MVC\bin\App.Data.DataBase.dll.config
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase07\slnVentas\App.UI.Web.MVC\bin\es\System.Web.Helpers.resources.dll
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase07\slnVentas\App.UI.Web.MVC\bin\es\System.Web.Mvc.resources.dll
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase07\slnVentas\App.UI.Web.MVC\bin\es\System.Web.Optimization.resources.dll
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase07\slnVentas\App.UI.Web.MVC\bin\es\System.Web.Razor.resources.dll
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase07\slnVentas\App.UI.Web.MVC\bin\es\System.Web.WebPages.resources.dll
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase07\slnVentas\App.UI.Web.MVC\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase07\slnVentas\App.UI.Web.MVC\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase07\slnVentas\App.UI.Web.MVC\obj\Debug\App.UI.Web.MVC.csprojAssemblyReference.cache
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase07\slnVentas\App.UI.Web.MVC\obj\Debug\App.UI.Web.MVC.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase07\slnVentas\App.UI.Web.MVC\obj\Debug\App.UI.Web.MVC.csproj.CopyComplete
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase07\slnVentas\App.UI.Web.MVC\obj\Debug\App.UI.Web.MVC.dll
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase07\slnVentas\App.UI.Web.MVC\obj\Debug\App.UI.Web.MVC.pdb
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\ApplicationInsights.config
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\App.UI.Web.MVC.dll.config
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\App.UI.Web.MVC.dll
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\App.UI.Web.MVC.pdb
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\roslyn\csc.exe
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\roslyn\csc.exe.config
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\roslyn\csc.rsp
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\roslyn\csi.exe
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\roslyn\csi.exe.config
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\roslyn\csi.rsp
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\roslyn\System.AppContext.dll
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\roslyn\System.Console.dll
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\roslyn\System.IO.Compression.dll
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\roslyn\System.IO.Pipes.dll
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\roslyn\System.Security.Claims.dll
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\roslyn\System.Threading.Thread.dll
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\roslyn\System.ValueTuple.dll
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\roslyn\vbc.exe
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\roslyn\vbc.exe.config
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\roslyn\vbc.rsp
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\roslyn\VBCSCompiler.exe
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\Antlr3.Runtime.dll
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\App.Domain.Services.dll
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\App.Domain.Services.Interfaces.dll
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\App.Entities.Base.dll
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\EntityFramework.dll
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\EntityFramework.SqlServer.dll
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\log4net.dll
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\Microsoft.AI.Web.dll
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\Microsoft.ApplicationInsights.dll
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\Newtonsoft.Json.dll
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\SimpleInjector.dll
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\SimpleInjector.Integration.Web.dll
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\SimpleInjector.Integration.Web.Mvc.dll
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\System.Web.Helpers.dll
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\System.Web.Mvc.dll
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\System.Web.Optimization.dll
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\System.Web.Razor.dll
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\System.Web.WebPages.dll
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\System.Web.WebPages.Razor.dll
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\WebGrease.dll
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\App.Data.Repository.dll
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\App.Data.Repository.Interfaces.dll
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\App.Data.DataBase.dll
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\App.Domain.Services.Interfaces.pdb
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\App.Domain.Services.pdb
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\App.Entities.Base.pdb
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\EntityFramework.xml
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\EntityFramework.SqlServer.xml
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\log4net.xml
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\SimpleInjector.xml
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\SimpleInjector.Integration.Web.xml
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\SimpleInjector.Integration.Web.Mvc.xml
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\System.Web.Helpers.xml
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\System.Web.Mvc.xml
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\System.Web.Optimization.xml
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\System.Web.Razor.xml
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\System.Web.WebPages.xml
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\System.Web.WebPages.Razor.xml
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\Newtonsoft.Json.xml
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\Antlr3.Runtime.pdb
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\Microsoft.AI.Web.xml
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\App.Data.Repository.pdb
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\App.Data.Repository.dll.config
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\App.Data.Repository.Interfaces.pdb
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\App.Data.DataBase.pdb
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\App.Data.DataBase.dll.config
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\es\System.Web.Helpers.resources.dll
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\es\System.Web.Mvc.resources.dll
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\es\System.Web.Optimization.resources.dll
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\es\System.Web.Razor.resources.dll
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\es\System.Web.WebPages.resources.dll
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Tarea ultima clase\slnVentas\App.UI.Web.MVC\obj\Debug\App.UI.Web.MVC.csprojAssemblyReference.cache
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Tarea ultima clase\slnVentas\App.UI.Web.MVC\obj\Debug\App.UI.Web.MVC.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Tarea ultima clase\slnVentas\App.UI.Web.MVC\obj\Debug\App.UI.Web.MVC.csproj.CopyComplete
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Tarea ultima clase\slnVentas\App.UI.Web.MVC\obj\Debug\App.UI.Web.MVC.dll
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Tarea ultima clase\slnVentas\App.UI.Web.MVC\obj\Debug\App.UI.Web.MVC.pdb
+C:\Labs\lab01\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\ApplicationInsights.config
+C:\Labs\lab01\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\App.UI.Web.MVC.dll.config
+C:\Labs\lab01\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\App.UI.Web.MVC.dll
+C:\Labs\lab01\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\App.UI.Web.MVC.pdb
+C:\Labs\lab01\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\roslyn\csc.exe
+C:\Labs\lab01\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\roslyn\csc.exe.config
+C:\Labs\lab01\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\roslyn\csc.rsp
+C:\Labs\lab01\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\roslyn\csi.exe
+C:\Labs\lab01\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\roslyn\csi.exe.config
+C:\Labs\lab01\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\roslyn\csi.rsp
+C:\Labs\lab01\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Labs\lab01\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Labs\lab01\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Labs\lab01\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Labs\lab01\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Labs\lab01\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Labs\lab01\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Labs\lab01\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Labs\lab01\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Labs\lab01\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Labs\lab01\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Labs\lab01\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\roslyn\System.AppContext.dll
+C:\Labs\lab01\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\roslyn\System.Collections.Immutable.dll
+C:\Labs\lab01\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\roslyn\System.Console.dll
+C:\Labs\lab01\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Labs\lab01\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\roslyn\System.Diagnostics.Process.dll
+C:\Labs\lab01\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Labs\lab01\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\roslyn\System.IO.Compression.dll
+C:\Labs\lab01\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\roslyn\System.IO.FileSystem.dll
+C:\Labs\lab01\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Labs\lab01\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Labs\lab01\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\roslyn\System.IO.Pipes.dll
+C:\Labs\lab01\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\roslyn\System.Reflection.Metadata.dll
+C:\Labs\lab01\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\roslyn\System.Security.AccessControl.dll
+C:\Labs\lab01\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\roslyn\System.Security.Claims.dll
+C:\Labs\lab01\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Labs\lab01\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Labs\lab01\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Labs\lab01\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Labs\lab01\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Labs\lab01\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Labs\lab01\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\roslyn\System.Threading.Thread.dll
+C:\Labs\lab01\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\roslyn\System.ValueTuple.dll
+C:\Labs\lab01\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Labs\lab01\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Labs\lab01\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\roslyn\System.Xml.XPath.dll
+C:\Labs\lab01\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Labs\lab01\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\roslyn\vbc.exe
+C:\Labs\lab01\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\roslyn\vbc.exe.config
+C:\Labs\lab01\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\roslyn\vbc.rsp
+C:\Labs\lab01\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\roslyn\VBCSCompiler.exe
+C:\Labs\lab01\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\roslyn\VBCSCompiler.exe.config
+C:\Labs\lab01\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\Antlr3.Runtime.dll
+C:\Labs\lab01\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\App.Domain.Services.dll
+C:\Labs\lab01\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\App.Domain.Services.Interfaces.dll
+C:\Labs\lab01\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\App.Entities.Base.dll
+C:\Labs\lab01\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\EntityFramework.dll
+C:\Labs\lab01\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\EntityFramework.SqlServer.dll
+C:\Labs\lab01\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\log4net.dll
+C:\Labs\lab01\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Labs\lab01\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\Microsoft.AI.DependencyCollector.dll
+C:\Labs\lab01\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Labs\lab01\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Labs\lab01\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\Microsoft.AI.Web.dll
+C:\Labs\lab01\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\Microsoft.AI.WindowsServer.dll
+C:\Labs\lab01\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\Microsoft.ApplicationInsights.dll
+C:\Labs\lab01\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Labs\lab01\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Labs\lab01\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Labs\lab01\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\Newtonsoft.Json.dll
+C:\Labs\lab01\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\SimpleInjector.dll
+C:\Labs\lab01\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\SimpleInjector.Integration.Web.dll
+C:\Labs\lab01\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\SimpleInjector.Integration.Web.Mvc.dll
+C:\Labs\lab01\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Labs\lab01\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\System.Web.Helpers.dll
+C:\Labs\lab01\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\System.Web.Mvc.dll
+C:\Labs\lab01\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\System.Web.Optimization.dll
+C:\Labs\lab01\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\System.Web.Razor.dll
+C:\Labs\lab01\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\System.Web.WebPages.Deployment.dll
+C:\Labs\lab01\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\System.Web.WebPages.dll
+C:\Labs\lab01\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\System.Web.WebPages.Razor.dll
+C:\Labs\lab01\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\WebGrease.dll
+C:\Labs\lab01\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\App.Data.Repository.dll
+C:\Labs\lab01\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\App.Data.Repository.Interfaces.dll
+C:\Labs\lab01\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\App.Data.DataBase.dll
+C:\Labs\lab01\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\App.Domain.Services.Interfaces.pdb
+C:\Labs\lab01\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\App.Domain.Services.pdb
+C:\Labs\lab01\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\App.Entities.Base.pdb
+C:\Labs\lab01\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\EntityFramework.xml
+C:\Labs\lab01\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\EntityFramework.SqlServer.xml
+C:\Labs\lab01\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\log4net.xml
+C:\Labs\lab01\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\SimpleInjector.xml
+C:\Labs\lab01\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\SimpleInjector.Integration.Web.xml
+C:\Labs\lab01\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\SimpleInjector.Integration.Web.Mvc.xml
+C:\Labs\lab01\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\System.Web.Helpers.xml
+C:\Labs\lab01\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\System.Web.Mvc.xml
+C:\Labs\lab01\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\System.Web.Optimization.xml
+C:\Labs\lab01\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\System.Web.Razor.xml
+C:\Labs\lab01\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\System.Web.WebPages.xml
+C:\Labs\lab01\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\System.Web.WebPages.Deployment.xml
+C:\Labs\lab01\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\System.Web.WebPages.Razor.xml
+C:\Labs\lab01\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\Newtonsoft.Json.xml
+C:\Labs\lab01\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\Antlr3.Runtime.pdb
+C:\Labs\lab01\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Labs\lab01\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Labs\lab01\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\Microsoft.AI.DependencyCollector.xml
+C:\Labs\lab01\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\Microsoft.AI.WindowsServer.xml
+C:\Labs\lab01\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\Microsoft.AI.Web.xml
+C:\Labs\lab01\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Labs\lab01\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\App.Data.Repository.pdb
+C:\Labs\lab01\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\App.Data.Repository.dll.config
+C:\Labs\lab01\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\App.Data.Repository.Interfaces.pdb
+C:\Labs\lab01\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\App.Data.DataBase.pdb
+C:\Labs\lab01\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\App.Data.DataBase.dll.config
+C:\Labs\lab01\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\es\System.Web.Helpers.resources.dll
+C:\Labs\lab01\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\es\System.Web.Mvc.resources.dll
+C:\Labs\lab01\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\es\System.Web.Optimization.resources.dll
+C:\Labs\lab01\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\es\System.Web.Razor.resources.dll
+C:\Labs\lab01\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\es\System.Web.WebPages.resources.dll
+C:\Labs\lab01\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Labs\lab01\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Labs\lab01\Tarea ultima clase\slnVentas\App.UI.Web.MVC\obj\Debug\App.UI.Web.MVC.csprojAssemblyReference.cache
+C:\Labs\lab01\Tarea ultima clase\slnVentas\App.UI.Web.MVC\obj\Debug\App.UI.Web.MVC.csproj.CoreCompileInputs.cache
+C:\Labs\lab01\Tarea ultima clase\slnVentas\App.UI.Web.MVC\obj\Debug\App.UI.Web.MVC.csproj.CopyComplete
+C:\Labs\lab01\Tarea ultima clase\slnVentas\App.UI.Web.MVC\obj\Debug\App.UI.Web.MVC.dll
+C:\Labs\lab01\Tarea ultima clase\slnVentas\App.UI.Web.MVC\obj\Debug\App.UI.Web.MVC.pdb
+E:\V- C# Web\Versionado\vs2017web_2018_1\Cap04\Lab02\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\ApplicationInsights.config
+E:\V- C# Web\Versionado\vs2017web_2018_1\Cap04\Lab02\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\App.UI.Web.MVC.dll.config
+E:\V- C# Web\Versionado\vs2017web_2018_1\Cap04\Lab02\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\App.UI.Web.MVC.dll
+E:\V- C# Web\Versionado\vs2017web_2018_1\Cap04\Lab02\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\App.UI.Web.MVC.pdb
+E:\V- C# Web\Versionado\vs2017web_2018_1\Cap04\Lab02\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\roslyn\csc.exe
+E:\V- C# Web\Versionado\vs2017web_2018_1\Cap04\Lab02\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\roslyn\csc.exe.config
+E:\V- C# Web\Versionado\vs2017web_2018_1\Cap04\Lab02\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\roslyn\csc.rsp
+E:\V- C# Web\Versionado\vs2017web_2018_1\Cap04\Lab02\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\roslyn\csi.exe
+E:\V- C# Web\Versionado\vs2017web_2018_1\Cap04\Lab02\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\roslyn\csi.exe.config
+E:\V- C# Web\Versionado\vs2017web_2018_1\Cap04\Lab02\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\roslyn\csi.rsp
+E:\V- C# Web\Versionado\vs2017web_2018_1\Cap04\Lab02\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\V- C# Web\Versionado\vs2017web_2018_1\Cap04\Lab02\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\V- C# Web\Versionado\vs2017web_2018_1\Cap04\Lab02\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\V- C# Web\Versionado\vs2017web_2018_1\Cap04\Lab02\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\V- C# Web\Versionado\vs2017web_2018_1\Cap04\Lab02\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\V- C# Web\Versionado\vs2017web_2018_1\Cap04\Lab02\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\V- C# Web\Versionado\vs2017web_2018_1\Cap04\Lab02\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\V- C# Web\Versionado\vs2017web_2018_1\Cap04\Lab02\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\V- C# Web\Versionado\vs2017web_2018_1\Cap04\Lab02\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\V- C# Web\Versionado\vs2017web_2018_1\Cap04\Lab02\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\V- C# Web\Versionado\vs2017web_2018_1\Cap04\Lab02\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\V- C# Web\Versionado\vs2017web_2018_1\Cap04\Lab02\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\roslyn\System.AppContext.dll
+E:\V- C# Web\Versionado\vs2017web_2018_1\Cap04\Lab02\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\roslyn\System.Collections.Immutable.dll
+E:\V- C# Web\Versionado\vs2017web_2018_1\Cap04\Lab02\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\roslyn\System.Console.dll
+E:\V- C# Web\Versionado\vs2017web_2018_1\Cap04\Lab02\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\V- C# Web\Versionado\vs2017web_2018_1\Cap04\Lab02\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\roslyn\System.Diagnostics.Process.dll
+E:\V- C# Web\Versionado\vs2017web_2018_1\Cap04\Lab02\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\V- C# Web\Versionado\vs2017web_2018_1\Cap04\Lab02\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\roslyn\System.IO.Compression.dll
+E:\V- C# Web\Versionado\vs2017web_2018_1\Cap04\Lab02\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\roslyn\System.IO.FileSystem.dll
+E:\V- C# Web\Versionado\vs2017web_2018_1\Cap04\Lab02\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+E:\V- C# Web\Versionado\vs2017web_2018_1\Cap04\Lab02\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\V- C# Web\Versionado\vs2017web_2018_1\Cap04\Lab02\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\roslyn\System.IO.Pipes.dll
+E:\V- C# Web\Versionado\vs2017web_2018_1\Cap04\Lab02\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\roslyn\System.Reflection.Metadata.dll
+E:\V- C# Web\Versionado\vs2017web_2018_1\Cap04\Lab02\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\roslyn\System.Security.AccessControl.dll
+E:\V- C# Web\Versionado\vs2017web_2018_1\Cap04\Lab02\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\roslyn\System.Security.Claims.dll
+E:\V- C# Web\Versionado\vs2017web_2018_1\Cap04\Lab02\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\V- C# Web\Versionado\vs2017web_2018_1\Cap04\Lab02\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\V- C# Web\Versionado\vs2017web_2018_1\Cap04\Lab02\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\V- C# Web\Versionado\vs2017web_2018_1\Cap04\Lab02\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\V- C# Web\Versionado\vs2017web_2018_1\Cap04\Lab02\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\roslyn\System.Security.Principal.Windows.dll
+E:\V- C# Web\Versionado\vs2017web_2018_1\Cap04\Lab02\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\V- C# Web\Versionado\vs2017web_2018_1\Cap04\Lab02\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\roslyn\System.Threading.Thread.dll
+E:\V- C# Web\Versionado\vs2017web_2018_1\Cap04\Lab02\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\roslyn\System.ValueTuple.dll
+E:\V- C# Web\Versionado\vs2017web_2018_1\Cap04\Lab02\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\V- C# Web\Versionado\vs2017web_2018_1\Cap04\Lab02\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\roslyn\System.Xml.XmlDocument.dll
+E:\V- C# Web\Versionado\vs2017web_2018_1\Cap04\Lab02\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\roslyn\System.Xml.XPath.dll
+E:\V- C# Web\Versionado\vs2017web_2018_1\Cap04\Lab02\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\V- C# Web\Versionado\vs2017web_2018_1\Cap04\Lab02\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\roslyn\vbc.exe
+E:\V- C# Web\Versionado\vs2017web_2018_1\Cap04\Lab02\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\roslyn\vbc.exe.config
+E:\V- C# Web\Versionado\vs2017web_2018_1\Cap04\Lab02\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\roslyn\vbc.rsp
+E:\V- C# Web\Versionado\vs2017web_2018_1\Cap04\Lab02\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\roslyn\VBCSCompiler.exe
+E:\V- C# Web\Versionado\vs2017web_2018_1\Cap04\Lab02\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\roslyn\VBCSCompiler.exe.config
+E:\V- C# Web\Versionado\vs2017web_2018_1\Cap04\Lab02\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\Antlr3.Runtime.dll
+E:\V- C# Web\Versionado\vs2017web_2018_1\Cap04\Lab02\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\App.Domain.Services.dll
+E:\V- C# Web\Versionado\vs2017web_2018_1\Cap04\Lab02\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\App.Domain.Services.Interfaces.dll
+E:\V- C# Web\Versionado\vs2017web_2018_1\Cap04\Lab02\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\App.Entities.Base.dll
+E:\V- C# Web\Versionado\vs2017web_2018_1\Cap04\Lab02\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\EntityFramework.dll
+E:\V- C# Web\Versionado\vs2017web_2018_1\Cap04\Lab02\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\EntityFramework.SqlServer.dll
+E:\V- C# Web\Versionado\vs2017web_2018_1\Cap04\Lab02\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\log4net.dll
+E:\V- C# Web\Versionado\vs2017web_2018_1\Cap04\Lab02\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\Microsoft.AI.Agent.Intercept.dll
+E:\V- C# Web\Versionado\vs2017web_2018_1\Cap04\Lab02\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\Microsoft.AI.DependencyCollector.dll
+E:\V- C# Web\Versionado\vs2017web_2018_1\Cap04\Lab02\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\V- C# Web\Versionado\vs2017web_2018_1\Cap04\Lab02\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\V- C# Web\Versionado\vs2017web_2018_1\Cap04\Lab02\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\Microsoft.AI.Web.dll
+E:\V- C# Web\Versionado\vs2017web_2018_1\Cap04\Lab02\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\Microsoft.AI.WindowsServer.dll
+E:\V- C# Web\Versionado\vs2017web_2018_1\Cap04\Lab02\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\Microsoft.ApplicationInsights.dll
+E:\V- C# Web\Versionado\vs2017web_2018_1\Cap04\Lab02\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+E:\V- C# Web\Versionado\vs2017web_2018_1\Cap04\Lab02\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\V- C# Web\Versionado\vs2017web_2018_1\Cap04\Lab02\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\Microsoft.Web.Infrastructure.dll
+E:\V- C# Web\Versionado\vs2017web_2018_1\Cap04\Lab02\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\Newtonsoft.Json.dll
+E:\V- C# Web\Versionado\vs2017web_2018_1\Cap04\Lab02\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\SimpleInjector.dll
+E:\V- C# Web\Versionado\vs2017web_2018_1\Cap04\Lab02\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\SimpleInjector.Integration.Web.dll
+E:\V- C# Web\Versionado\vs2017web_2018_1\Cap04\Lab02\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\SimpleInjector.Integration.Web.Mvc.dll
+E:\V- C# Web\Versionado\vs2017web_2018_1\Cap04\Lab02\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\System.Diagnostics.DiagnosticSource.dll
+E:\V- C# Web\Versionado\vs2017web_2018_1\Cap04\Lab02\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\System.Web.Helpers.dll
+E:\V- C# Web\Versionado\vs2017web_2018_1\Cap04\Lab02\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\System.Web.Mvc.dll
+E:\V- C# Web\Versionado\vs2017web_2018_1\Cap04\Lab02\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\System.Web.Optimization.dll
+E:\V- C# Web\Versionado\vs2017web_2018_1\Cap04\Lab02\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\System.Web.Razor.dll
+E:\V- C# Web\Versionado\vs2017web_2018_1\Cap04\Lab02\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\System.Web.WebPages.Deployment.dll
+E:\V- C# Web\Versionado\vs2017web_2018_1\Cap04\Lab02\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\System.Web.WebPages.dll
+E:\V- C# Web\Versionado\vs2017web_2018_1\Cap04\Lab02\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\System.Web.WebPages.Razor.dll
+E:\V- C# Web\Versionado\vs2017web_2018_1\Cap04\Lab02\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\WebGrease.dll
+E:\V- C# Web\Versionado\vs2017web_2018_1\Cap04\Lab02\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\App.Data.Repository.dll
+E:\V- C# Web\Versionado\vs2017web_2018_1\Cap04\Lab02\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\App.Data.Repository.Interfaces.dll
+E:\V- C# Web\Versionado\vs2017web_2018_1\Cap04\Lab02\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\App.Data.DataBase.dll
+E:\V- C# Web\Versionado\vs2017web_2018_1\Cap04\Lab02\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\App.Domain.Services.Interfaces.pdb
+E:\V- C# Web\Versionado\vs2017web_2018_1\Cap04\Lab02\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\App.Domain.Services.pdb
+E:\V- C# Web\Versionado\vs2017web_2018_1\Cap04\Lab02\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\App.Entities.Base.pdb
+E:\V- C# Web\Versionado\vs2017web_2018_1\Cap04\Lab02\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\EntityFramework.xml
+E:\V- C# Web\Versionado\vs2017web_2018_1\Cap04\Lab02\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\EntityFramework.SqlServer.xml
+E:\V- C# Web\Versionado\vs2017web_2018_1\Cap04\Lab02\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\log4net.xml
+E:\V- C# Web\Versionado\vs2017web_2018_1\Cap04\Lab02\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\SimpleInjector.xml
+E:\V- C# Web\Versionado\vs2017web_2018_1\Cap04\Lab02\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\SimpleInjector.Integration.Web.xml
+E:\V- C# Web\Versionado\vs2017web_2018_1\Cap04\Lab02\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\SimpleInjector.Integration.Web.Mvc.xml
+E:\V- C# Web\Versionado\vs2017web_2018_1\Cap04\Lab02\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\System.Web.Helpers.xml
+E:\V- C# Web\Versionado\vs2017web_2018_1\Cap04\Lab02\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\System.Web.Mvc.xml
+E:\V- C# Web\Versionado\vs2017web_2018_1\Cap04\Lab02\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\System.Web.Optimization.xml
+E:\V- C# Web\Versionado\vs2017web_2018_1\Cap04\Lab02\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\System.Web.Razor.xml
+E:\V- C# Web\Versionado\vs2017web_2018_1\Cap04\Lab02\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\System.Web.WebPages.xml
+E:\V- C# Web\Versionado\vs2017web_2018_1\Cap04\Lab02\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\System.Web.WebPages.Deployment.xml
+E:\V- C# Web\Versionado\vs2017web_2018_1\Cap04\Lab02\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\System.Web.WebPages.Razor.xml
+E:\V- C# Web\Versionado\vs2017web_2018_1\Cap04\Lab02\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\Newtonsoft.Json.xml
+E:\V- C# Web\Versionado\vs2017web_2018_1\Cap04\Lab02\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\Antlr3.Runtime.pdb
+E:\V- C# Web\Versionado\vs2017web_2018_1\Cap04\Lab02\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\System.Diagnostics.DiagnosticSource.xml
+E:\V- C# Web\Versionado\vs2017web_2018_1\Cap04\Lab02\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+E:\V- C# Web\Versionado\vs2017web_2018_1\Cap04\Lab02\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\Microsoft.AI.DependencyCollector.xml
+E:\V- C# Web\Versionado\vs2017web_2018_1\Cap04\Lab02\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\Microsoft.AI.WindowsServer.xml
+E:\V- C# Web\Versionado\vs2017web_2018_1\Cap04\Lab02\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\Microsoft.AI.Web.xml
+E:\V- C# Web\Versionado\vs2017web_2018_1\Cap04\Lab02\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\V- C# Web\Versionado\vs2017web_2018_1\Cap04\Lab02\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\App.Data.Repository.pdb
+E:\V- C# Web\Versionado\vs2017web_2018_1\Cap04\Lab02\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\App.Data.Repository.dll.config
+E:\V- C# Web\Versionado\vs2017web_2018_1\Cap04\Lab02\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\App.Data.Repository.Interfaces.pdb
+E:\V- C# Web\Versionado\vs2017web_2018_1\Cap04\Lab02\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\App.Data.DataBase.pdb
+E:\V- C# Web\Versionado\vs2017web_2018_1\Cap04\Lab02\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\App.Data.DataBase.dll.config
+E:\V- C# Web\Versionado\vs2017web_2018_1\Cap04\Lab02\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\es\System.Web.Helpers.resources.dll
+E:\V- C# Web\Versionado\vs2017web_2018_1\Cap04\Lab02\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\es\System.Web.Mvc.resources.dll
+E:\V- C# Web\Versionado\vs2017web_2018_1\Cap04\Lab02\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\es\System.Web.Optimization.resources.dll
+E:\V- C# Web\Versionado\vs2017web_2018_1\Cap04\Lab02\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\es\System.Web.Razor.resources.dll
+E:\V- C# Web\Versionado\vs2017web_2018_1\Cap04\Lab02\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\es\System.Web.WebPages.resources.dll
+E:\V- C# Web\Versionado\vs2017web_2018_1\Cap04\Lab02\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\es\System.Web.WebPages.Deployment.resources.dll
+E:\V- C# Web\Versionado\vs2017web_2018_1\Cap04\Lab02\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\es\System.Web.WebPages.Razor.resources.dll
+E:\V- C# Web\Versionado\vs2017web_2018_1\Cap04\Lab02\Tarea ultima clase\slnVentas\App.UI.Web.MVC\obj\Debug\App.UI.Web.MVC.csprojAssemblyReference.cache
+E:\V- C# Web\Versionado\vs2017web_2018_1\Cap04\Lab02\Tarea ultima clase\slnVentas\App.UI.Web.MVC\obj\Debug\App.UI.Web.MVC.csproj.CoreCompileInputs.cache
+E:\V- C# Web\Versionado\vs2017web_2018_1\Cap04\Lab02\Tarea ultima clase\slnVentas\App.UI.Web.MVC\obj\Debug\App.UI.Web.MVC.csproj.CopyComplete
+E:\V- C# Web\Versionado\vs2017web_2018_1\Cap04\Lab02\Tarea ultima clase\slnVentas\App.UI.Web.MVC\obj\Debug\App.UI.Web.MVC.dll
+E:\V- C# Web\Versionado\vs2017web_2018_1\Cap04\Lab02\Tarea ultima clase\slnVentas\App.UI.Web.MVC\obj\Debug\App.UI.Web.MVC.pdb
