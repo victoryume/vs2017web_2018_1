@@ -19,6 +19,7 @@ namespace App.Data.Repository
         public IMarcaRepository MarcaRepository { get; set; }
         public IProductoRepository ProductoRepository { get; set; }
         public IUsuarioRepository UsuarioRepository { get; set; }
+        public IComentarioRepository ComentarioRepository { get; set; }
 
         public AppUnitOfWork(DbContext context) {
             _context = context;
@@ -37,6 +38,7 @@ namespace App.Data.Repository
             this.MarcaRepository = new MarcaRepository(_context);
             this.ProductoRepository = new ProductoRepository(_context);
             this.UsuarioRepository = new UsuarioRepository(_context);
+            this.ComentarioRepository = new ComentarioRepository(_context);
         }
 
         public int Complete()

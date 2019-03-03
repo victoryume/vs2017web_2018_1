@@ -18,8 +18,7 @@ namespace App.Domain.Services
             using (var unitOfWork = new AppUnitOfWork())
             {
                 result = unitOfWork.UsuarioRepository.GetAll(
-                    item => item.Nombres.Contains(nombre)
-                    || item.Apellidos.Contains(nombre)
+                    item => String.Concat(item.Nombres, " ", item.Apellidos).Contains(nombre)
                     ).ToList();
             }
 

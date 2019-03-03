@@ -51,6 +51,7 @@
     <Compile Include="ProductoRepository.cs" />
     <Compile Include="CategoriaRepository.cs" />
     <Compile Include="GenericRepository.cs" />
+    <Compile Include="ComentarioRepository.cs" />
     <Compile Include="UsuarioRepository.cs" />
     <Compile Include="MarcaRepository.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

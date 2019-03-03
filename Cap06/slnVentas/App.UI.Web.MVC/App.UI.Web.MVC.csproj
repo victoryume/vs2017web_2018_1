@@ -186,6 +186,7 @@
     <Compile Include="Areas\AdminSeguridad\AdminSeguridadAreaRegistration.cs" />
     <Compile Include="Common\SecurityHelpers.cs" />
     <Compile Include="Controllers\BaseController.cs" />
+    <Compile Include="Controllers\ComentarioController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Controllers\Mantenimientos\CategoriaController.cs" />
     <Compile Include="Controllers\Mantenimientos\MarcaController.cs" />
@@ -846,6 +847,7 @@
     <Folder Include="Areas\AdminSeguridad\Models\" />
     <Folder Include="Areas\AdminSeguridad\Views\Shared\" />
     <Folder Include="Views\Base\" />
+    <Folder Include="Views\Comentario\" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="fonts\glyphicons-halflings-regular.woff2" />
