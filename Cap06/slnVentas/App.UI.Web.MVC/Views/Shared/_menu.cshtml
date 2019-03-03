@@ -44,16 +44,16 @@
                                 <a href="@Url.Action("Index", "Home")"><i class="fa fa-circle-o"></i>Home</a>
                             </li>
                             <li class="@(ViewBag.CurrentPage == "Categoria" ? "active" : ""   )">
-                                <a href="@Url.Action("Index", "Categoria")"><i class="fa fa-circle-o"></i>Categorías</a>
+                                <a href="@Url.Action("Index", "Categoria", new { Area = "" })"><i class="fa fa-circle-o"></i>Categorías</a>
                             </li>
                             <li class="@(ViewBag.CurrentPage == "Marca" ? "active" : ""   )">
-                                <a href="@Url.Action("Index", "Marca")"><i class="fa fa-circle-o"></i>Marca</a>
+                                <a href="@Url.Action("Index", "Marca", new { Area = "" })"><i class="fa fa-circle-o"></i>Marca</a>
                             </li>
                             <li class="@(ViewBag.CurrentPage == "UnidadMedida" ? "active" : ""   )">
-                                <a href="@Url.Action("Index", "UnidadMedida")"><i class="fa fa-circle-o"></i>Unidad de Medida</a>
+                                <a href="@Url.Action("Index", "UnidadMedida", new { Area = "" })"><i class="fa fa-circle-o"></i>Unidad de Medida</a>
                             </li>
                             <li class="@(ViewBag.CurrentPage == "Producto" ? "active" : ""   )">
-                                <a href="@Url.Action("Index4", "Producto")"><i class="fa fa-circle-o"></i>Producto</a>
+                                <a href="@Url.Action("Index4", "Producto", new { Area = "" })"><i class="fa fa-circle-o"></i>Producto</a>
                             </li>
                         </ul>
                     </li>
@@ -65,7 +65,7 @@
                         <ul class="treeview-menu">
 
                             <li class="active">
-                                <a href="@Url.Action("Index", "Home", new { Area = "AdminSeguridad"})"><i class="fa fa-circle-o"></i>Usuarios</a>
+                                <a href="@Url.Action("Index", "Home", new { Area = "AdminSeguridad" })"><i class="fa fa-circle-o"></i>Usuarios</a>
                             </li>
                         </ul>
                     </li>
@@ -77,4 +77,18 @@
         </section>
         <!-- /.sidebar -->
     </aside>
+}
+else
+{
+    <li class="active treeview">
+        <a href="#">
+            <i class="fa fa-dashboard"></i> <span>Otras Opciones</span> <i class="fa fa-angle-left pull-right"></i>
+        </a>
+        <ul class="treeview-menu">
+
+            <li class="active">
+                <a href="@Url.Action("Index", "Comentario", new { Area = "" })"><i class="fa fa-circle-o"></i>Comentarios</a>
+            </li>
+        </ul>
+    </li>
 }
