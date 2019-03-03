@@ -2140,3 +2140,40 @@ Opinion
 2019-03-03 13:19:14,116 [9] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: Comentario,Index,Hora de Finalización: 3/03/2019 13:19:14
 2019-03-03 13:20:40,434 [9] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: Comentario,Index,Hora de inicio: 3/03/2019 13:20:40
 2019-03-03 13:20:41,749 [9] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: Comentario,Index,Hora de Finalización: 3/03/2019 13:20:41
+2019-03-03 13:27:42,935 [11] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: Seguridad,Login,Hora de inicio: 3/03/2019 13:27:42
+2019-03-03 13:27:42,952 [11] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: Seguridad,Login,Hora de Finalización: 3/03/2019 13:27:42
+2019-03-03 13:27:52,584 [10] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: Comentario,Registrar,Hora de inicio: 3/03/2019 13:27:52
+2019-03-03 13:27:52,584 [10] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: Comentario,Registrar,Hora de Finalización: 3/03/2019 13:27:52
+2019-03-03 13:28:20,677 [10] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: Comentario,Registrar,Hora de inicio: 3/03/2019 13:28:20
+2019-03-03 13:28:20,925 [10] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: Comentario,Registrar,Hora de Finalización: 3/03/2019 13:28:20
+2019-03-03 13:28:24,854 [10] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: Comentario,Registrar,Hora de inicio: 3/03/2019 13:28:24
+2019-03-03 13:28:24,859 [10] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: Comentario,Registrar,Hora de Finalización: 3/03/2019 13:28:24
+2019-03-03 13:28:37,846 [11] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: Comentario,Registrar,Hora de inicio: 3/03/2019 13:28:37
+2019-03-03 13:28:37,849 [11] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: Comentario,Registrar,Hora de Finalización: 3/03/2019 13:28:37
+2019-03-03 13:28:45,804 [10] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: Comentario,Registrar,Hora de inicio: 3/03/2019 13:28:45
+2019-03-03 13:28:45,808 [10] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: Comentario,Registrar,Hora de Finalización: 3/03/2019 13:28:45
+2019-03-03 13:28:55,574 [10] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: Comentario,Registrar,Hora de inicio: 3/03/2019 13:28:55
+2019-03-03 13:28:55,578 [10] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: Comentario,Registrar,Hora de Finalización: 3/03/2019 13:28:55
+2019-03-03 13:29:19,467 [11] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: Comentario,Registrar,Hora de inicio: 3/03/2019 13:29:19
+2019-03-03 13:29:19,477 [11] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: Comentario,Registrar,Hora de Finalización: 3/03/2019 13:29:19
+2019-03-03 13:29:22,780 [11] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: Comentario,Registrar,Hora de inicio: 3/03/2019 13:29:22
+2019-03-03 13:29:22,797 [11] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: Comentario,Registrar,Hora de Finalización: 3/03/2019 13:29:22
+2019-03-03 13:29:56,477 [10] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: Comentario,Registrar,Hora de inicio: 3/03/2019 13:29:56
+2019-03-03 13:29:58,648 [10] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: Comentario,Registrar,Hora de Finalización: 3/03/2019 13:29:58
+2019-03-03 13:30:06,509 [10] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: Comentario,Registrar,Hora de inicio: 3/03/2019 13:30:06
+2019-03-03 13:30:07,133 [10] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: Comentario,Registrar,Hora de Finalización: 3/03/2019 13:30:07
+2019-03-03 13:30:16,619 [10] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: Comentario,Registrar,Hora de inicio: 3/03/2019 13:30:16
+2019-03-03 13:30:17,392 [10] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: Comentario,Registrar,Hora de Finalización: 3/03/2019 13:30:17
+2019-03-03 13:38:36,399 [12] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: Comentario,Registrar,Hora de inicio: 3/03/2019 13:38:36
+2019-03-03 13:38:37,704 [12] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: Comentario,Registrar,Hora de Finalización: 3/03/2019 13:38:37
+2019-03-03 13:41:49,313 [12] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: Seguridad,Login,Hora de inicio: 3/03/2019 13:41:49
+2019-03-03 13:41:49,334 [12] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: Seguridad,Login,Hora de Finalización: 3/03/2019 13:41:49
+2019-03-03 13:41:55,479 [12] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: Comentario,Registrar,Hora de inicio: 3/03/2019 13:41:55
+2019-03-03 13:41:55,479 [12] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: Comentario,Registrar,Hora de Finalización: 3/03/2019 13:41:55
+2019-03-03 13:42:09,223 [13] ERROR App.UI.Web.MVC.Filters.HandleCustomError System.Web.Mvc.HttpAntiForgeryException (0x80004005): El campo de formulario antifalsificación "__RequestVerificationToken" no está presente.
+   en System.Web.Helpers.AntiXsrf.TokenValidator.ValidateTokens(HttpContextBase httpContext, IIdentity identity, AntiForgeryToken sessionToken, AntiForgeryToken fieldToken)
+   en System.Web.Helpers.AntiXsrf.AntiForgeryWorker.Validate(HttpContextBase httpContext)
+   en System.Web.Helpers.AntiForgery.Validate()
+   en System.Web.Mvc.ValidateAntiForgeryTokenAttribute.OnAuthorization(AuthorizationContext filterContext)
+   en System.Web.Mvc.ControllerActionInvoker.InvokeAuthorizationFilters(ControllerContext controllerContext, IList`1 filters, ActionDescriptor actionDescriptor)
+   en System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass3_1.<BeginInvokeAction>b__0(AsyncCallback asyncCallback, Object asyncState)

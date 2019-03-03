@@ -37,6 +37,7 @@ namespace App.UI.Web.MVC.Controllers
 
         [AllowAnonymous]
         [HttpPost]
+        [ValidateAntiForgeryToken]
         public ActionResult Registrar(ComentarioViewModel model)
         {
             var comentario = Mapper.Map<Comentario>(model);
