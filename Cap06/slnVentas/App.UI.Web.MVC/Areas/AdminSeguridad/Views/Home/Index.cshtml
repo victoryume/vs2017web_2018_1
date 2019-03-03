@@ -1,0 +1,37 @@
+﻿@model IEnumerable<App.Entities.Base.Usuario>
+@{
+    ViewBag.Title = "Administrar Usuarios";
+}
+
+<div class="box">
+    <div class="box-header">
+        <h3 class="box-title">Listado de usuarios</h3>
+        <div class="box-tools">
+            <div class="input-group">
+                @using (Ajax.BeginForm("Buscar", "Home",
+                        new AjaxOptions
+                        {
+                            HttpMethod = "POST",
+                            InsertionMode = InsertionMode.Replace,
+                            UpdateTargetId = "listado"
+                        }))
+                {
+                    <input type="text" name="filterByName" id="filterByName" class="form-control input-sm" style="width: 150px" placeholder="Search" />
+                    <div class="input-group-btn">
+                        <button type="submit" class="btn btn-sm btn-default"><i class="fa fa-search"></i></button>
+                    </div>
+                }
+            </div>
+        </div>
+    </div>
+    <div class="box-body table-responsive no-padding">
+        <div id="listado">
+            @Html.Action("Buscar")
+        </div>
+    </div>
+
+</div>
+@section scriptsAdicionales
+{
+    @Scripts.Render("~/bundles/jqueryval")
+}

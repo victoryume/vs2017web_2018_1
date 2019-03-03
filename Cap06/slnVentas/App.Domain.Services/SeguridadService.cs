@@ -11,7 +11,21 @@ namespace App.Domain.Services
 {
     public class SeguridadService : ISeguridadService
     {
-        
+        public IEnumerable<Usuario> GetAll(string nombre)
+        {
+            IEnumerable<Usuario> result;
+
+            using (var unitOfWork = new AppUnitOfWork())
+            {
+                result = unitOfWork.UsuarioRepository.GetAll(
+                    item => item.Nombres.Contains(nombre)
+                    || item.Apellidos.Contains(nombre)
+                    ).ToList();
+            }
+
+            return result;
+        }
+
         public Usuario VerificarUsuario(string login, string password)
         {
             Usuario result;

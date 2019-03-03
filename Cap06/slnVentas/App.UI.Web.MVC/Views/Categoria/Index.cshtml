@@ -13,7 +13,7 @@
 @*@Html.ActionLink("Nueva Categoría","Create","Categoria",new { @class = "btn btn-success" })*@
 
 <div class="row">
-    <div class="col-sm-1">        
+    <div class="col-sm-1">
         <button onclick="app.helpers.showModal('CategoriaCreatePopup','@Url.Action("create")')" class="btn btn-success">Nuevo</button>
     </div>
 
@@ -26,10 +26,10 @@
         }))
     {
         <div class="row">
-            <div class="form-group col-sm-3 ">                
+            <div class="form-group col-sm-3 ">
                 <input name="filterByName" id="filterByName" class="form-control" placeholder="Buscar por nombre" />
             </div>
-            <div class="col-sm-2">                
+            <div class="col-sm-2">
                 <button type="submit" class="buscar btn btn-facebook">Buscar</button>
             </div>
         </div>
