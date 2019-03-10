@@ -126,3 +126,5 @@ E:\V- C# Web\Versionado\vs2017web_2018_1\Cap06\slnVentas\App.Data.Repository.Tes
 E:\V- C# Web\Versionado\vs2017web_2018_1\Cap06\slnVentas\App.Data.Repository.Test\obj\Debug\App.Data.Repository.Test.csproj.CopyComplete
 E:\V- C# Web\Versionado\vs2017web_2018_1\Cap06\slnVentas\App.Data.Repository.Test\obj\Debug\App.Data.Repository.Test.dll
 E:\V- C# Web\Versionado\vs2017web_2018_1\Cap06\slnVentas\App.Data.Repository.Test\obj\Debug\App.Data.Repository.Test.pdb
+E:\V- C# Web\Versionado\vs2017web_2018_1\Cap06\slnVentas\App.Data.Repository.Test\bin\Debug\App.Entities.Queries.dll
+E:\V- C# Web\Versionado\vs2017web_2018_1\Cap06\slnVentas\App.Data.Repository.Test\bin\Debug\App.Entities.Queries.pdb

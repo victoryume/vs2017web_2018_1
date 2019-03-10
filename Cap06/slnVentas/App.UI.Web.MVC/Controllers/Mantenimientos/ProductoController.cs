@@ -1,6 +1,7 @@
 ﻿using App.Domain.Services;
 using App.Domain.Services.Interfaces;
 using App.Entities.Base;
+using App.Entities.Queries;
 using App.UI.Web.MVC.Filters;
 using App.UI.Web.MVC.Models.ViewModels;
 using Newtonsoft.Json;
@@ -190,6 +191,13 @@ namespace App.UI.Web.MVC.Controllers.Mantenimientos
             var model = productoService.GetAll(filterByName,filterByCategoria,filterByMarca);
 
             return PartialView("IndexListado", model);
+        }
+
+        public JsonResult BuscarProductosStock(ProductoSearchFiltros filtros)
+        {
+            var model = productoService.BuscarProductosStock(filtros);
+
+            return Json(model, JsonRequestBehavior.AllowGet);
         }
 
     }

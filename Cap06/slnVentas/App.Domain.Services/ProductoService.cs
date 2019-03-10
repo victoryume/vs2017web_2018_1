@@ -1,6 +1,7 @@
 ﻿using App.Data.Repository;
 using App.Domain.Services.Interfaces;
 using App.Entities.Base;
+using App.Entities.Queries;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -11,6 +12,18 @@ namespace App.Domain.Services
 {
     public class ProductoService : IProductoService
     {
+        public ListaPaginada<ProductoSearch> BuscarProductosStock(ProductoSearchFiltros filtros)
+        {
+            ListaPaginada <ProductoSearch> result;
+
+            using (var unitOfWork = new AppUnitOfWork())
+            {
+                result = unitOfWork.ProductoRepository.BuscarProductosStock(filtros);
+            }
+
+            return result;
+        }
+
         public IEnumerable<Producto> GetAll(string nombre, int? categoriaID,int? marcaID)
         {
             List<Producto> results;
@@ -28,8 +41,7 @@ namespace App.Domain.Services
 
             return results;
         }
-
-
+        
         public Producto GetById(int id)
         {
 

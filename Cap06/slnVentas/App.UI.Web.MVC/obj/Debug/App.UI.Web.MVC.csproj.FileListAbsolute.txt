@@ -1008,3 +1008,5 @@ E:\V- C# Web\Versionado\vs2017web_2018_1\Cap06\slnVentas\App.UI.Web.MVC\bin\Anti
 E:\V- C# Web\Versionado\vs2017web_2018_1\Cap06\slnVentas\App.UI.Web.MVC\bin\HtmlSanitizationLibrary.dll
 E:\V- C# Web\Versionado\vs2017web_2018_1\Cap06\slnVentas\App.UI.Web.MVC\bin\AntiXssLibrary.xml
 E:\V- C# Web\Versionado\vs2017web_2018_1\Cap06\slnVentas\App.UI.Web.MVC\bin\HtmlSanitizationLibrary.xml
+E:\V- C# Web\Versionado\vs2017web_2018_1\Cap06\slnVentas\App.UI.Web.MVC\bin\App.Entities.Queries.dll
+E:\V- C# Web\Versionado\vs2017web_2018_1\Cap06\slnVentas\App.UI.Web.MVC\bin\App.Entities.Queries.pdb

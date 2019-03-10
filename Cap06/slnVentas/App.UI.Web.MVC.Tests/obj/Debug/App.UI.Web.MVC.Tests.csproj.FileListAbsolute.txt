@@ -199,3 +199,14 @@ E:\V- C# Web\Versionado\vs2017web_2018_1\Cap06\slnVentas\App.UI.Web.MVC.Tests\ob
 E:\V- C# Web\Versionado\vs2017web_2018_1\Cap06\slnVentas\App.UI.Web.MVC.Tests\obj\Debug\App.UI.Web.MVC.Tests.csproj.CopyComplete
 E:\V- C# Web\Versionado\vs2017web_2018_1\Cap06\slnVentas\App.UI.Web.MVC.Tests\obj\Debug\App.UI.Web.MVC.Tests.dll
 E:\V- C# Web\Versionado\vs2017web_2018_1\Cap06\slnVentas\App.UI.Web.MVC.Tests\obj\Debug\App.UI.Web.MVC.Tests.pdb
+E:\V- C# Web\Versionado\vs2017web_2018_1\Cap06\slnVentas\App.UI.Web.MVC.Tests\bin\Debug\App.Entities.Queries.dll
+E:\V- C# Web\Versionado\vs2017web_2018_1\Cap06\slnVentas\App.UI.Web.MVC.Tests\bin\Debug\AutoMapper.dll
+E:\V- C# Web\Versionado\vs2017web_2018_1\Cap06\slnVentas\App.UI.Web.MVC.Tests\bin\Debug\HtmlSanitizationLibrary.dll
+E:\V- C# Web\Versionado\vs2017web_2018_1\Cap06\slnVentas\App.UI.Web.MVC.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+E:\V- C# Web\Versionado\vs2017web_2018_1\Cap06\slnVentas\App.UI.Web.MVC.Tests\bin\Debug\System.ValueTuple.dll
+E:\V- C# Web\Versionado\vs2017web_2018_1\Cap06\slnVentas\App.UI.Web.MVC.Tests\bin\Debug\App.Entities.Queries.pdb
+E:\V- C# Web\Versionado\vs2017web_2018_1\Cap06\slnVentas\App.UI.Web.MVC.Tests\bin\Debug\AutoMapper.pdb
+E:\V- C# Web\Versionado\vs2017web_2018_1\Cap06\slnVentas\App.UI.Web.MVC.Tests\bin\Debug\AutoMapper.xml
+E:\V- C# Web\Versionado\vs2017web_2018_1\Cap06\slnVentas\App.UI.Web.MVC.Tests\bin\Debug\HtmlSanitizationLibrary.xml
+E:\V- C# Web\Versionado\vs2017web_2018_1\Cap06\slnVentas\App.UI.Web.MVC.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+E:\V- C# Web\Versionado\vs2017web_2018_1\Cap06\slnVentas\App.UI.Web.MVC.Tests\bin\Debug\System.ValueTuple.xml

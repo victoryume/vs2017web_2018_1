@@ -52,3 +52,5 @@ E:\V- C# Web\Versionado\vs2017web_2018_1\Cap06\slnVentas\App.Domain.Services.Int
 E:\V- C# Web\Versionado\vs2017web_2018_1\Cap06\slnVentas\App.Domain.Services.Interfaces\obj\Debug\App.Domain.Services.Interfaces.csproj.CopyComplete
 E:\V- C# Web\Versionado\vs2017web_2018_1\Cap06\slnVentas\App.Domain.Services.Interfaces\obj\Debug\App.Domain.Services.Interfaces.dll
 E:\V- C# Web\Versionado\vs2017web_2018_1\Cap06\slnVentas\App.Domain.Services.Interfaces\obj\Debug\App.Domain.Services.Interfaces.pdb
+E:\V- C# Web\Versionado\vs2017web_2018_1\Cap06\slnVentas\App.Domain.Services.Interfaces\bin\Debug\App.Entities.Queries.dll
+E:\V- C# Web\Versionado\vs2017web_2018_1\Cap06\slnVentas\App.Domain.Services.Interfaces\bin\Debug\App.Entities.Queries.pdb

@@ -124,3 +124,5 @@ E:\V- C# Web\Versionado\vs2017web_2018_1\Cap06\slnVentas\App.Domain.Services\obj
 E:\V- C# Web\Versionado\vs2017web_2018_1\Cap06\slnVentas\App.Domain.Services\obj\Debug\App.Domain.Services.csproj.CopyComplete
 E:\V- C# Web\Versionado\vs2017web_2018_1\Cap06\slnVentas\App.Domain.Services\obj\Debug\App.Domain.Services.dll
 E:\V- C# Web\Versionado\vs2017web_2018_1\Cap06\slnVentas\App.Domain.Services\obj\Debug\App.Domain.Services.pdb
+E:\V- C# Web\Versionado\vs2017web_2018_1\Cap06\slnVentas\App.Domain.Services\bin\Debug\App.Entities.Queries.dll
+E:\V- C# Web\Versionado\vs2017web_2018_1\Cap06\slnVentas\App.Domain.Services\bin\Debug\App.Entities.Queries.pdb
