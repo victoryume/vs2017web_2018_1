@@ -4,18 +4,27 @@
     app.ConsultaProductosStockView = {
 
         Init: function () {
+
+            $(".ConsultaProductosStock .Buscar").on("click", this.Buscar);
+
             $("#ListaProductos").jsGrid(
                 {
                     width: "100%",
                     height: "400px",
                     paging: true,
-                    pageSize: 4,
+                    pageSize: 20,
                     pageIndex: 1,
+                    sorting: true,
                     autoload: true,
                     pageLoading: true,
                     fields: [
-                        { name: "Nombre", type: "text", width: 150 },
-                        { name: "StockActual", type: "number", width: 150 }
+                        { name: "ProductoCode", type: "text" },
+                        { name: "Nombre", type: "text" },
+                        { name: "CategoriaName", type: "text" },
+                        { name: "MarcaName", type: "text" },
+                        { name: "PrecioMayor", type: "text" },
+                        { name: "PrecioMenor", type: "text" },
+                        { name: "StockActual", type: "number" }
                     ],
 
                     controller:
@@ -48,6 +57,16 @@
                         }
                 }
             );
+        },
+        Buscar: function () {
+            
+            var filtros = {
+                Nombre: $(".ConsultaProductosStock .Nombre").val(),
+                Stock: $(".ConsultaProductosStock .Stock").val()
+            }
+
+            var grid = $("#ListaProductos").jsGrid("search", filtros);
+                
         }
     }
 
