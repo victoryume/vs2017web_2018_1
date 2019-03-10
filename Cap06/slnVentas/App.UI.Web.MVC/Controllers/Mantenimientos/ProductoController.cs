@@ -195,9 +195,16 @@ namespace App.UI.Web.MVC.Controllers.Mantenimientos
 
         public JsonResult BuscarProductosStock(ProductoSearchFiltros filtros)
         {
+            
             var model = productoService.BuscarProductosStock(filtros);
 
             return Json(model, JsonRequestBehavior.AllowGet);
+        }
+
+        public ActionResult ConsultaProductosStock()
+        {
+
+            return View();
         }
 
     }

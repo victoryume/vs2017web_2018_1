@@ -47,7 +47,7 @@ namespace App.Data.Repository
             result.TotalRows = query.Count();
             //Paginar en el servidor
             //Toma el primer registro de la página seleccionada
-            query = query.Skip(filtros.PageSize * (filtros.CurrentPagina - 1));
+            query = query.Skip(filtros.PageSize * (filtros.PageIndex - 1));
             //Toma los registros restantes según el tamaño de página
             query = query.Take(filtros.PageSize);
 

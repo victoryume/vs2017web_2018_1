@@ -12,7 +12,7 @@ namespace App.Entities.Queries
 
         public decimal Stock { get; set; }
 
-        public int CurrentPagina { get; set; }
+        public int PageIndex { get; set; }
 
         public int PageSize { get; set; }
     }
